@@ -456,8 +456,8 @@ switch (command) {
  case 'help':
     capt = `───  𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🍃┃ ───
    
-  ${ucapanWaktu}. . .
-     *${pushname}*
+${ucapanWaktu}. . .
+    *${pushname}*
     
 🌙⃟   *${msg.lvl}* : ${isLevel}
 🍃⃟   *Premium* : ${prem}
