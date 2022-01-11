@@ -88,19 +88,22 @@ exports.vcnrst = 'No detectado';
 exports.vclect = 'Lectura de voz';
 exports.listwb = 'Lista de eventos';
 exports.pregt = 'Pasare el año?';
-exports.donate = `💮PREMIUM:*
+exports.donate = `
+━━━━━━━━━━━━━━━━━
+*╰ 💮 ╯ PREMIUM:*
 Si quieres conseguir Premium deberas seguir unos cuantos pasos.
 
 Tu actividad en el grupo como tu participacion en eventos son fundamentales, puedes conseguir Premium mediante estas.
 
-Usa .Premium si quieres ver como conseguir Premium y sus ventajas.`;
+Usa .Premium si quieres ver como conseguir Premium y sus ventajas.
+━━━━━━━━━━━━━━━━━`;
 exports.cretb = 'Crea tu propio BOT:';
 
 // -- Decir tiempo
-exports.night = 'Buenas noches🌌'
-exports.evening = 'Buenas tardes🌄'
-exports.day = 'Buen día🏞️'
-exports.morning = 'Buenos dias🌅'
+exports.night = '-`🌌´- 𝐵𝑢𝑒𝑛𝑎𝑠 𝑁𝑜𝑐ℎ𝑒𝑠'
+exports.evening = '-`🌄´- 𝐵𝑢𝑒𝑛𝑎𝑠 𝑇𝑎𝑟𝑑𝑒𝑠'
+exports.day = '-`🏞️´- 𝐵𝑢𝑒𝑛 𝐷𝑖𝑎'
+exports.morning = '-`🌅´- 𝐵𝑢𝑒𝑛𝑜𝑠 𝐷𝑖𝑎𝑠'
 
 
 // -- mensaje solo 
