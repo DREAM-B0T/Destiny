@@ -457,7 +457,7 @@ switch (command) {
     capt = `───  𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🍃┃ ───
    
 ${ucapanWaktu}. . .
-    *${pushname}*
+    ${pushname}
     
 🌙⃟   *${msg.lvl}* : ${isLevel}
 🍃⃟   *Premium* : ${prem}
