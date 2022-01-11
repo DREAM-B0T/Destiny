@@ -6,11 +6,21 @@ const welAwal = `‿︵‿︵ʚ˚̣̣̣͙ɞ・💢・ ʚ˚̣̣̣͙ɞ‿︵‿︵
 Bienvenido @user a 
 @group. . .
 
-No olvides leer las reglas para no tener problemas.
+No olvides leer las reglas para no tener problemas:
 
 .reglas
 .reglasbt
 .reglasrol
+
+Usa mis distintas funciones:
+
+.menu
+.help
+
+Descubre como ser Premium:
+
+.serpremium
+
 
 Esperamos que tu estancia en este grupo sea sana y divertida, este es el grupo donde podras rolear y hacer SPAM.
 
