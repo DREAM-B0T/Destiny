@@ -23,7 +23,7 @@ Si eres Owner: .omenu
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 │
-│  .warns
+│  .warns/.profile
 │
 │ ┌━━━
 │ ▢ Ve tus advertencias.
@@ -259,37 +259,18 @@ Si eres Owner: .omenu
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 │
 │ EN MANTEMINIENTO!!; NO
-│ LOS USES.
+│ LOS USES.⚠️
 │
 │  .play
 │  .play2
 │  .playvid
+│
 │ ┌━━━
 │ ▢ Reproduce videos.
 │ └━━━
-╰──────────────╮
-▢ ${v}play
-▢ ${v}play2
-▢ ${v}playvid
-└─────────────
-┌─⊷ *TEXT MAKER*
-▢ ${v}nameninja <text>
-▢ ${v}typewriter <text>
-▢ ${v}blackpill <text>
-▢ ${v}sans <text>
-▢ ${v}castle <text>
-└─────────────
-┌─⊷ *DATABASE* 
-▢ ${v}addimg <text>
-▢ ${v}addvid <text>
-▢ ${v}addstick <text>
-▢ ${v}addav <text>
-▢ ${v}getimg <text>
-▢ ${v}getvid <text>
-▢ ${v}getstick <text>
-▢ ${v}getav <text>
-▢ ${v}listmedia
-└─────────────
+╰──────────────
+
+
 ┌─⊷ *VOTING* 
 ▢ ${v}voting <text>
 ▢ ${v}delvote
@@ -325,24 +306,7 @@ Si eres Owner: .omenu
 ▢ ${v}detect on/off
 ▢ ${v}antilink on/off
 ▢ ${v}link
-▢ ${v}infogp
-▢ ${v}profile
 ▢ ${v}invite <549xxxx> 
-└─────────────
-┌─⊷ *OWNER* 
-▢ ${v}addpremium @user
-▢ ${v}delpremium @user
-▢ ${v}ban @user
-▢ ${v}unban @user
-▢ ${v}view
-▢ ${v}grouplist
-▢ ${v}update
-▢ ${v}setppbot
-▢ ${v}setfakethumb
-▢ ${v}setprefix
-▢ ${v}listreport
-▢ $
-▢ >
 └─────────────`;
 };
 
