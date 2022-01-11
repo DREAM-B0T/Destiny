@@ -93,9 +93,15 @@ exports.donate = `
 *╰ 💮 ╯ PREMIUM:*
 Si quieres conseguir Premium deberas seguir unos cuantos pasos.
 
-Tu actividad en el grupo como tu participacion en eventos son fundamentales, puedes conseguir Premium mediante estas.
+Tu actividad en el grupo como tu participacion en eventos son fundamentales. . .
 
-Usa .Premium si quieres ver como conseguir Premium y sus ventajas.
+Los requisitos minimos son:
+
+Tener almenos 3000 mensajes no SPAM.
+Actividad seguida.
+Participacion en eventos.
+
+Algunas de las ventajas premium son poder usar comandos de Administradores o la facilidad de que el BOT descargue musica o videos por ti.
 ━━━━━━━━━━━━━━━━━`;
 exports.cretb = 'Crea tu propio BOT:';
 
@@ -110,7 +116,7 @@ exports.morning = '-`🌅´- 𝐵𝑢𝑒𝑛𝑜𝑠 𝐷𝑖𝑎𝑠'
 exports.admin = '|⚠️| Este comando solo lo pueden usar los *Admins* del grupo.';
 exports.group = '|⛔️| ¡Este comando solo se puede usar en grupos!.';
 exports.premium = '|⛔️| Este comando es solo para miembros *Premium*.';
-exports.premdl = '|⛔️| Lo siento, no eres un usuario premium, descárgualoo usando el enlace.\n**🔗 Link* : ';
+exports.premdl = '|⛔️| Lo siento, no eres un usuario premium, descárgualo usando el enlace.\n**🔗 Link* : ';
 exports.botadmin = '|⚠️| ¡Para usar este comando debo ser *Administradora!.*';
 exports.owner = '|🌸| Esta función es solo la puede usar *Mi Maestro.*';
 exports.isprem = '|🌸| El usuario es el usuario premium anterior.';
