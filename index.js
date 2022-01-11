@@ -2457,30 +2457,30 @@ case 'bot':
     //determinar las reglas
     if (value == ppt) {
       await addPoin(sender, 100)
-        m.reply(`▢ *${msg.emt}*\n\n‣ ${msg.pptuser} : ${value}\n‣ DyLux : ${ppt}\n\n🎁  (±)100 Coins`)
+        m.reply(`▢ *${msg.emt}*\n\n‣ ${msg.pptuser} : ${value}\n‣ 𝐷𝑒𝑠𝑡𝑖𝑛𝑦 : ${ppt}\n\n🎁  (±)100 Coins`)
     } else if (value == `${msg.piedra}`) {
         if (ppt == `${msg.tijera}`) {
           await addPoin(sender, poin)
-            m.reply(`▢ *${msg.gst}* 🎊\n\n‣ ${msg.pptuser} : ${value}\n‣ DyLux : ${ppt}\n\n🎁  *+${poin} Coins*`)
+            m.reply(`▢ *${msg.gst}* 🎊\n\n‣ ${msg.pptuser} : ${value}\n‣ 𝐷𝑒𝑠𝑡𝑖𝑛𝑦 : ${ppt}\n\n🎁  *+${poin} Coins*`)
         } else {
           await delPoin(sender, poin)
-            m.reply(`▢ *${msg.pdt}*\n\n‣ ${msg.pptuser} : ${value}\n‣ DyLux : ${ppt}\n\n  *-${poin} Coins*`)
+            m.reply(`▢ *${msg.pdt}*\n\n‣ ${msg.pptuser} : ${value}\n‣ 𝐷𝑒𝑠𝑡𝑖𝑛𝑦 : ${ppt}\n\n  *-${poin} Coins*`)
         }
     } else if (value == `${msg.tijera}`) {
         if (ppt == `${msg.papel}`) {
           await addPoin(sender, poin)
-            m.reply(`▢ *${msg.gst}* 🎊\n\n‣ ${msg.pptuser} : ${value}\n‣ DyLux : ${ppt}\n\n🎁  *+${poin} Coins*`)
+            m.reply(`▢ *${msg.gst}* 🎊\n\n‣ ${msg.pptuser} : ${value}\n‣ 𝐷𝑒𝑠𝑡𝑖𝑛𝑦 : ${ppt}\n\n🎁  *+${poin} Coins*`)
         } else {
           await delPoin(sender, poin)
-            m.reply(`▢ *${msg.pdt}*\n\n‣ ${msg.pptuser} : ${value}\n‣ DyLux : ${ppt}\n\n  *-${poin} Coins*`)
+            m.reply(`▢ *${msg.pdt}*\n\n‣ ${msg.pptuser} : ${value}\n‣ 𝐷𝑒𝑠𝑡𝑖𝑛𝑦 : ${ppt}\n\n  *-${poin} Coins*`)
         }
     } else if (value == `${msg.papel}`) {
         if (ppt == `${msg.piedra}`) {
           await addPoin(sender, poin)
-            m.reply(`▢ *${msg.gst}* 🎊\n\n‣ ${msg.pptuser} : ${value}\n‣ DyLux : ${ppt}\n\n🎁  *+${poin} Coins*`)
+            m.reply(`▢ *${msg.gst}* 🎊\n\n‣ ${msg.pptuser} : ${value}\n‣ 𝐷𝑒𝑠𝑡𝑖𝑛𝑦 : ${ppt}\n\n🎁  *+${poin} Coins*`)
         } else {
           await delPoin(sender, poin)
-            m.reply(`▢ *${msg.pdt}*\n\n‣ ${msg.pptuser} : ${value}\n‣ DyLux : ${ppt}\n\n  *-${poin} Coins*`)
+            m.reply(`▢ *${msg.pdt}*\n\n‣ ${msg.pptuser} : ${value}\n‣ 𝐷𝑒𝑠𝑡𝑖𝑛𝑦 : ${ppt}\n\n  *-${poin} Coins*`)
         }
     } else {
        m.reply(salah)
