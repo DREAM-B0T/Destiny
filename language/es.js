@@ -88,7 +88,7 @@ exports.vcnrst = 'No detectado';
 exports.vclect = 'Lectura de voz';
 exports.listwb = 'Lista de eventos';
 exports.pregt = 'Pasare el año?';
-exports.donate = `*〘💢〙PREMIUM:*
+exports.donate = `💮PREMIUM:*
 Si quieres conseguir Premium deberas seguir unos cuantos pasos.
 
 Tu actividad en el grupo como tu participacion en eventos son fundamentales, puedes conseguir Premium mediante estas.
