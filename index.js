@@ -454,13 +454,13 @@ switch (command) {
  
  case 'menu': 
  case 'help':
-    capt = `⸻𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🍃┃⸻
+    capt = `⸻⸻ 𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🍃┃⸻⸻
    
-  ${ucapanWaktu}
+  ${ucapanWaktu}. . .
      *${pushname}*
     
-⎔ *${msg.lvl}* : ${isLevel}
-⎔ *Premium* : ${prem}
+🧪⃟ *${msg.lvl}* : ${isLevel}
+🌸⃟ *Premium* : ${prem}
 
 
 ${readMore}
