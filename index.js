@@ -454,19 +454,19 @@ switch (command) {
  
  case 'menu': 
  case 'help':
-    capt = `⸻⸻ 𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🍃┃⸻⸻
+    capt = `────   𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🍃┃  ────
    
   ${ucapanWaktu}. . .
      *${pushname}*
     
-🧪⃟ *${msg.lvl}* : ${isLevel}
-🌸⃟ *Premium* : ${prem}
+🧪⃟  *${msg.lvl}* : ${isLevel}
+🍃⃟  *Premium* : ${prem}
 
 
 ${readMore}
 ${menu(prefix)} 
 `
-    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *DyLux  ┃ ᴮᴼᵀ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`,  '💢REGLAS', `${prefix}reglas1`, '🤺REGLASBT', `${prefix}reglasbt`, `🌸REGLAS`, `${prefix}reglasrol`)
+    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *DreamCoreᵇᵒᵗ*\n▢ *Total Cmds* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`,  '💢REGLAS', `${prefix}reglas1`, '🤺REGLASBT', `${prefix}reglasbt`, `🌸REGLAS`, `${prefix}reglasrol`)
     break
     
    /*case 'menuvc': 
