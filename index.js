@@ -589,6 +589,12 @@ ${menuVC}
 		
 		break
 		
+	case 'premium':
+		if ( !isOwner && !isAdmins && !isBot && !isPremium ) return m.reply(msg.admin)
+		m.reply(``)
+		
+		break
+		
     case 'grupos': 
     case 'groups': 
     case 'entrar':
