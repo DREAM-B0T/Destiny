@@ -1,9 +1,66 @@
 exports.menu = (v) => {
   return `
-  ───── ❝ *MAIN* ❞ ─────
+  
+┌─⊷ OTROS MENUS. . .
+
+Si eres Admin: .admin
+Si eres Premium: .premium
+Si eres Owner: .omenu
+
+ ───── ❝ *MAIN* ❞ ─────
+ 
+╭─˚ ༘✶ ⋆｡ ⁀➷─────────
+│
+│  .reglas
+│  .reglasrol
+│  .reglasbt
+│
+│ ┌━━━
+│ │ Ve las distintas
+┃ ▢ reglas del grupo,
+┃ │ bt = battle.
+┃ └━━━
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
+│  .warns
+│
+│ ┌━━━
+│ ▢ Ve tus advertencias.
+│ └━━━
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
+│  .link
+│
+│ ┌━━━
+│ ▢ Link del grupo.
+│ └━━━
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
+│  .profile
+│
+│ ┌━━━
+│ ▢ Ve tu pefil.
+│ └━━━
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
+│  .infogp
+│
+│ ┌━━━
+│ │ Ve la info de el
+│ │ grupo.
+│ └━━━
+╰──────────────
+
+  ───── ❝ *OTROS* ❞ ─────
 
 ╭─˚ ༘✶ ⋆｡ ⁀➷─────────
+│
 │  .bot (texto)
+│
 │ ┌━━━
 │ │ Puedes hablar con el
 ┃ ▢ BOT y tambien enseñarle
@@ -11,175 +68,209 @@ exports.menu = (v) => {
 ┃ └━━━
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
 │  .info
+│
 │ ┌━━━
-│ │ Ve la info del BOT.
-│ │
+│ ▢ Ve la info del BOT.
 │ └━━━
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
 │  .ping
+│
 │ ┌━━━
-│ │ Ping del Bot.
+│ ▢ Ping del Bot.
 │ └━━━
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
 │  .owner
+│
 │ ┌━━━
-│ │ Contacto de mi creador.
+│ ▢ Contacto de mi creador.
 │ └━━━
-╰──────────────╮
+╰──────────────
 
   ───── ❝ *FUN* ❞ ─────
   
-╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
-│  .fake text|@user|text
+╭──˚ ༘✶ ⋆｡ ⁀➷───────
+│
+│   .fake text|@user|text
+│
 │ ┌━━━
-│ │ Creo un texto falso
+│ ▢ Creo un texto falso
 │ │ respondiendo a un
 │ │ mensaje falso de un
-│ │ integrante.
-┃ └━━━
+│ ▢ integrante.
+│ └━━━
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
 │  .preg (texto)
+│
 │ ┌━━━
-│ │ Respondo una pregunta.
+│ ▢ Respondo una pregunta.
 │ └━━━
-╰──────────────────────╮
+╰──────────────
 
   ───── ❝ *GAMES* ❞ ─────
 
-╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+╭──˚ ༘✶ ⋆｡ ⁀➷───────
+│
 │  .verdad
+│
 │ ┌━━━
-│ │ Te mando una verdad.
+│ ▢ Te mando una verdad.
 │ └━━━
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
 │  .reto
+│
 │ ┌━━━
-│ │ Te mando un reto.
+│ ▢ Te mando un reto.
 │ └━━━
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
 │  .ppt
+│
 │ ┌━━━
 │ │ Jugamos piedra, papel
 │ │ o tijera.
 │ └━━━
 ╰───────────────────────
 
-  ───── ❝ *STICKER* ❞ ─────
+  ──── ❝*STICKER*❞ ────
 
+╭──˚ ༘✶ ⋆｡ ⁀➷───────
+│
+│  .s
+│
+│ ┌━━━
+│ ▢ Crea un sticker
+│ │ etiquetando una imagen
+│ │ o un video que dure
+│ ▢ menos de 10sec.
+│ └━━━
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
-  .s
-  
-  Crea un sticker
-  etiquetando una imagen
-  o un video que dure
-  menos de 10sec.
-  
+│
+│  .toimg
+│  
+│ ┌━━━
+│ │ Convierte un sticker
+│ │ a una imagen.
+│ └━━━
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
-
-  .toim
-  
-  Convierte un sticker
-  a una imagen.
-  
-╰──────────────╮
-╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
-
-  .take nombre|autor
-  
-  Roba un sticker.
-╰──────────────╮
+│
+│
+│  .take nombre|autor
+│
+│ ┌━━━
+│ ▢ Roba un sticker.
+│ └━━━
+╰──────────────
 
   ───── ❝ *TOOLS* ❞ ─────
 
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
-
-  .afk (Razón)
-  
-  Estaras AFK hasta que
-  el BOT envies un 
-  mensaje.
-  
+│
+│  .afk (Razón)
+│  
+│ ┌━━━
+│ │ Estaras AFK hasta que
+│ │ envies un mensaje.
+│ └━━━ 
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
-
-  .fakethumb
-  
-  Crea una imagen.
-
+│
+│  .tomp3
+│
+│ ┌━━━
+│ │ Convierte un video a
+│ │ un audio.
+│ └━━━ 
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
-
-  .tomp3
-  
-  Convierte un video a
-  un audio.
-
+│
+│  .toav
+│
+│ ┌━━━
+│ │ Convierte un audio a
+│ │ video.
+│ └━━━ 
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
-
-  .toav
-  
-  Convierte un audio a
-  video.
-
-╰──────────────╮
-╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
-
-  .say (texto)
-  
-  Repito lo que dijiste.
-
+│
+│  .say (texto)
+│  
+│ ┌━━━
+│ ▢ Repito lo que dijiste.
+│ └━━━ 
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 
   ───── ❝ *SEARCH* ❞ ─────
 
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
-
-  .ytsearch (Busqueda)
-  
-  Busco lo que me pidas 
-  en YouTube.
-
-╰──────────────╮
-╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
-
-  .google (Busqueda)
-  
-  Busco lo que me pidas
-  en Google.
+│
+│  .ytsearch (Busqueda)
  
- 
+│ ┌━━━ 
+│ │ Busco lo que me pidas 
+│ │ en YouTube.
+│ └━━━ 
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
-
-  .playstore
-  
-  Busco lo que me pidas
-  en PlayStore.
-
+│
+│  .google (Busqueda)
+│ ┌━━━
+│ │ Busco lo que me pidas
+│ │ en Google.
+│ └━━━ 
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
+│  .playstore
+│  
+│ ┌━━━
+│ │ Busco lo que me pidas
+│ │ en PlayStore.
+│ └━━━ 
+╰──────────────
 
-┌─⊷ *DOWNLOAD* 
+ ─── ❝ *DOWNLOAD* ❞ ───
+
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
+│  TODOS ESTOS COMANDOS
+│  SIRVEN PARA DESCARGAS.
+│ ┌━━━
+│ │ .tiktok (link)
+│ │ .igdl (link)
+│ │ .ytmp3 (link)
+│ │ .ytmp4 (link)
+│ │ .tiktokaudio (link)
+│ └━━━ 
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
+│ EN MANTEMINIENTO!!; NO
+│ LOS USES.
+│
+│  .play
+│  .play2
+│  .playvid
+│ ┌━━━
+│ ▢ Reproduce videos.
+│ └━━━
+╰──────────────╮
 ▢ ${v}play
 ▢ ${v}play2
 ▢ ${v}playvid
-▢ ${v}ytmp3 <link yt>
-▢ ${v}ytmp4 <link yt>
-▢ ${v}igdl <link>
-▢ ${v}tiktok <link>
-▢ ${v}tiktoknowm <link>
-▢ ${v}tiktokaudio <link>
-▢ ${v}mediafire <link>
 └─────────────
 ┌─⊷ *TEXT MAKER*
 ▢ ${v}nameninja <text>
