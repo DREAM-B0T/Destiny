@@ -585,7 +585,7 @@ case 'developer':
 - Pideselo a mi Maestro.
 
 ` 
-Fg.send2Button(from, teks, '©Destiny with DreamCore™ collab.', `Premium`, `${prefix}donate`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
+Fg.send2Button(from, teks, '©Destiny with DreamCore™ collab.', `💮PREMIUM`, `${prefix}donate`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
    break
    
     case 'nameninja':
