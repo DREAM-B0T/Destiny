@@ -485,7 +485,98 @@ ${menuVC}
     break*/
 	case 'admin':
 		if ( !isOwner && !isAdmins && !isBot ) return m.reply(msg.admin)
-		m.reply(`a`)
+		m.reply(`
+		
+*BIENVENIDO ADMINISTRADOR:*
+
+
+
+
+─── ❝ *VOTING* ❞ ───
+
+╭──˚ ༘✶ ⋆｡ ⁀➷───────
+│
+│  .voting (Razón)
+│ ┌━━━
+│ │ .checkvote
+│ │   Revisa los votos.
+│ │
+│ │ .delvote
+│ │   Elimina la
+│ │   votacion.
+│ │
+│ └━━━ 
+╰──────────────
+
+──── ❝ *WARNS* ❞ ────
+
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│ ┌━━━ 
+│ │ .warn @user
+│ │  Aumenta un warn al
+│ │   user.
+│ │ .delwarn @user
+│ │   Elimina un warn al
+│ │   user
+│ │ .warns @user
+│ │   Revisa las warns de
+│ │   el usser.
+│ └━━━
+╰──────────────
+
+──── ❝ *VARIOS* ❞ ────
+
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│ ┌━━━ 
+│ │ .tagall / .all
+│ │ .todos / .tagtodos
+│ │   Etiqueta a todos
+│ │   los usuarios.
+│ │
+│ │ .hidetag
+│ │   Etiqueta a todos
+│ │   los usuarios sin
+│ │   su tag.
+│ │ 
+│ │ .notify
+│ │   Etiqueta a todos
+│ │   los usuarios sin
+│ │   su tag.
+│ │
+│ │ .group open/close
+│ │   Abre o Cierra el
+│ │   grupo.
+│ │
+│ │ .setwelcome/bye
+│ │   Reescribe la
+│ │   bienvenida o
+│ │   despedida.
+│ │
+│ │ .simulate welcome/bye
+│ │   Simula la bienvenida
+│ │   o las pedida.
+│ │
+│ │ .delwelcome/bye
+│ │   Elimina la bienvenida
+│ │   o despedida.
+│ │
+│ │ .antilink
+│ │   Activas el antilink
+│ │   de WhatsApp.
+│ │
+│ │ .resetlink
+│ │   Resetea el link de el
+│ │   grupo.
+│ │ 
+│ │ .setname (texto)
+│ │   Reescribes el nombre
+│ │   del grupo.
+│ │ 
+│ │ .setdesc (texto)
+│ │   Reescribes la desc
+│ │   del grupo.
+│ └━━━
+╰──────────────`)
 		
 		break
 		
