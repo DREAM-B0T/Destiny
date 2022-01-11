@@ -591,7 +591,7 @@ ${menuVC}
 		break
 		
 	case 'premium':
-		if ( !isOwner && !isAdmins && !isBot && !isPremium ) return m.reply(msg.admin)
+		if ( !isOwner && !isAdmins && !isBot && !isPremium ) return m.reply(msg.premium)
 		m.reply(`━━━━━━━━━━━━━━━━━	
 ┊┊┊┊
 ┊┊┊☆
@@ -1839,14 +1839,13 @@ Fg.groupSettingChange(from, GroupSettingChange.messageSend, true)
 	    }
 	 Prema = cekPremium(who) ? 'Si' : 'No'
    perfil = ` ┌───「 *${msg.pfile}* 」
-▢ *🔖 ${msg.nme}:* ${pushname}
-▢ *📇 Info:* ${about}
-▢ *🌎 ${msg.idiom}:* ${cekBahasa(who)}
-▢ *⚠️ ${msg.wrn}* : ${cekWarn(who)}/3
-▢ *⭐ Premium* : ${Prema}
-▢ *🆙 ${msg.lvl}* : ${cekLevel(who)}
-▢ *💰Coins* : ${cekPoin(who)} 
-└──────────────`
+ *🏴❱ ${msg.nme}:* ${pushname}
+ *🔗❱ Info:* ${about}
+ *💢❱ ${msg.wrn}* : ${cekWarn(who)}/3
+ *💮❱ Premium* : ${Prema}
+ *🌴❱ ${msg.lvl}* : ${cekLevel(who)}
+ *💰❱ Coins* : ${cekPoin(who)} 
+└────────────`
 prof = await getBuffer(ppimg)
 Fg.sendMessage(from, prof, image, { thumbnail: fakethumb, quoted: mek, caption: perfil})
    break
@@ -1867,18 +1866,17 @@ Fg.sendMessage(from, prof, image, { thumbnail: fakethumb, quoted: mek, caption: 
    creation = moment(groupMetadata.creation * 1000).tz('America/La_Paz').format(`DD-MM-YYYY`)
    //ownergp = groupMetadata.owner.split('@')[0]
    
-   infogpp = `┌──「 *INFO DE GRUPO* 」
-▢ *🔖${msg.nme}* : ${groupName}
-▢ *🪀${msg.crtio}* : ${creation}
-▢ *🕵🏻‍♂️Admins* : ${groupAdmins.length}
-▢ *👥${msg.mbr}* : ${groupMembers.length}
-≡ CONFI
-▢ *📮${msg.wlme}* : ${isWelcome}
-▢ *🚨Anti Link Wha* : ${isAntilink}
-▢ *🚫 Antidelete* : ${isAntidelete}
-▢ *👀ViewOnce* : ${isViewonce}
-▢ *❕Detected* : ${isDetect}
-▢ *📌Descripción* : \n${groupDesc}`
+   infogpp = `───「 *INFO DE GRUPO* 」
+ *🏴${msg.nme}* : ${groupName}
+ *${msg.crtio}* : ${creation}
+ *💢Admins* : ${groupAdmins.length}
+ *👥${msg.mbr}* : ${groupMembers.length}
+▢ CONFIGURACION. . .
+ *🌴${msg.wlme}* : ${isWelcome}
+ *⚠️Anti Link Wha* : ${isAntilink}
+ *🚫Antidelete* : ${isAntidelete}
+ *📌Descripción* : \n${groupDesc}
+ ─────────────`
 gpp = await getBuffer(ppimg)
 Fg.sendMessage(from, gpp, image, { thumbnail: fakethumb, quoted: mek, caption: infogpp})
 break 
