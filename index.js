@@ -452,8 +452,8 @@ if (isBanned) return; // los usuarios con estado baneado no podrán usar el coma
 
 switch (command) { 
  
- case 'menu': 
- case 'help':
+ case 'menudd': 
+ case 'helpdd':
     capt = `───  𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🍃┃ ───
    
 ${ucapanWaktu}. . .
@@ -575,7 +575,7 @@ case 'developer':
 ▢ *${unread.length}* Mensaje no leídos
 
 
-*〉 OWNER *
+*〉 OWNER*
 
 - WhatsApp : wa.me/593987516808 
 
