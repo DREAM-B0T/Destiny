@@ -273,7 +273,7 @@ exports.benar = (value, value2) => {
 // afk
 exports.with = '‣ Razón : ';
 exports.onAfk = (value) => {
-  return `┃🌸┃*AFK* \nEstas afk hasta que envies un mensaje\n${value}`
+  return `┃🌸┃AFK \nEstas AFK hasta que envies un mensaje\n${value}`
 };
 exports.offAfk = '|🌸| Regresaste del *AFK*'
 exports.inAfk = (value, time) => {
