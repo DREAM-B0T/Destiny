@@ -12,10 +12,6 @@ No olvides leer las reglas para no tener problemas.
 .reglasbt
 .reglasrol
 
-Para ver mis distintas funciones.
-
-.menu
-
 Esperamos que tu estancia en este grupo sea sana y divertida, este es el grupo donde podras rolear y hacer SPAM.
 
 ATT: 𝐿𝑎 𝐴𝑑𝑚𝑖𝑛𝑖𝑠𝑡𝑟𝑎𝑐𝑖𝑜𝑛.
