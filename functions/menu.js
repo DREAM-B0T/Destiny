@@ -2,7 +2,7 @@ exports.menu = (v) => {
   return `
   ───── ❝ *MAIN* ❞ ─────
 
-╭─────────────────────
+╭─˚ ༘✶ ⋆｡˚ ⁀➷─────────
 │  .bot (texto)
 │ ┌━━━
 │ │ Puedes hablar con el
@@ -10,40 +10,68 @@ exports.menu = (v) => {
 ┃ │ a hablar.
 ┃ └━━━
 ╰──────────────────────╮
-╭──────────────────────╯
+╭──˚ ༘✶ ⋆｡˚ ⁀➷────────╯
 │  .info
 │ ┌━━━
-│ │ Ve la info del BOT
+│ │ Ve la info del BOT.
 │ │
 │ └━━━
 ╰──────────────────────╮
-╭──────────────────────╯
-│  .info
+╭──˚ ༘✶ ⋆｡˚ ⁀➷────────╯
+│  .ping
 │ ┌━━━
-│ │ Ve la info del BOT
-│ │
+│ │ Ping del Bot.
 │ └━━━
+╰──────────────────────╮
+╭──˚ ༘✶ ⋆｡˚ ⁀➷────────╯
+│  .owner
+│ ┌━━━
+│ │ Contacto de mi creador.
+│ └━━━
+╰──────────────────────╮
+  ───── ❝ *FUN* ❞ ─────
+  
+╭─˚ ༘✶ ⋆｡˚ ⁀➷─────────
+│  .fake text|@user|text
+│ ┌━━━
+│ │ Creo un texto falso
+│ │ respondiendo a un
+│ │ mensaje falso de un
+│ │ integrante.
+┃ └━━━
+╰──────────────────────╮
+╭──˚ ༘✶ ⋆｡˚ ⁀➷────────╯
+│  .preg (texto)
+│ ┌━━━
+│ │ Respondo una pregunta.
+│ └━━━
+╰──────────────────────╮
+
+  ───── ❝ *GAMES* ❞ ─────
+
+╭──˚ ༘✶ ⋆｡˚ ⁀➷────────╯
+│  .verdad
+│ ┌━━━
+│ │ Te mando una verdad.
+│ └━━━
+╰──────────────────────╮
+╭──˚ ༘✶ ⋆｡˚ ⁀➷────────╯
+│  .reto
+│ ┌━━━
+│ │ Te mando un reto.
+│ └━━━
+╰──────────────────────╮
+╭──˚ ༘✶ ⋆｡˚ ⁀➷────────╯
+│  .ppt
+│ ┌━━━
+│ │ Jugamos piedra, papel
+│ │ o tijera.
+│ └━━━
+╰───────────────────────
+
+  ───── ❝ *GAMES* ❞ ─────
 
 
-▢ ${v}info
-▢ ${v}ping
-▢ ${v}owner
-▢ ${v}join <link>
-▢ ${v}report <text>
-▢ ${v}listprem
-▢ ${v}listban
-▢ ${v}chatbot on/off
-└─────────────
-≡ List Menu
-┌─⊷ *FUN* 
-▢ ${v}fake text|@user|text
-▢ ${v}preg
-└─────────────
-┌─⊷ *GAMES* 
-▢ ${v}verdad
-▢ ${v}reto
-▢ ${v}ppt
-└─────────────
 ┌─⊷ *STICKER* 
 ▢ ${v}sticker <nombre>|<autor>
 ▢ ${v}take <nombre>|<autor>
