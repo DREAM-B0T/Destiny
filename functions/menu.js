@@ -1,14 +1,30 @@
 exports.menu = (v) => {
-  return `───── ❝ *MAIN* ❞ ─────
+  return `
+  ───── ❝ *MAIN* ❞ ─────
 
-┍━━▸ 
-│  {v}bot <texto>
-│╭━━━
-││ Puedes hablar con el
-│▢ BOT y tambien enseñar
-││ le.
-│╰━━━
-┕━━▸
+╭─────────────────────
+│  .bot (texto)
+│ ┌━━━
+│ │ Puedes hablar con el
+┃ ▢ BOT y tambien enseñarle
+┃ │ a hablar.
+┃ └━━━
+╰──────────────────────╮
+╭──────────────────────╯
+│  .info
+│ ┌━━━
+│ │ Ve la info del BOT
+│ │
+│ └━━━
+╰──────────────────────╮
+╭──────────────────────╯
+│  .info
+│ ┌━━━
+│ │ Ve la info del BOT
+│ │
+│ └━━━
+
+
 ▢ ${v}info
 ▢ ${v}ping
 ▢ ${v}owner
