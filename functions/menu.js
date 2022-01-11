@@ -17,16 +17,16 @@ Si eres Owner: .omenu
 │
 │ ┌━━━
 │ │ Ve las distintas
-┃ ▢ reglas del grupo,
-┃ │ bt = battle.
-┃ └━━━
+│ ▢ reglas del grupo,
+│ │ bt = battle.
+│ └━━━
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 │
-│  .warns/.profile
+│  .profile
 │
 │ ┌━━━
-│ ▢ Ve tus advertencias.
+│ ▢ Ve tu perfil.
 │ └━━━
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
@@ -39,10 +39,10 @@ Si eres Owner: .omenu
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 │
-│  .profile
+│  .warns / .profile
 │
 │ ┌━━━
-│ ▢ Ve tu pefil.
+│ ▢ Ve tus advertencias.
 │ └━━━
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
@@ -63,9 +63,9 @@ Si eres Owner: .omenu
 │
 │ ┌━━━
 │ │ Puedes hablar con el
-┃ ▢ BOT y tambien enseñarle
-┃ │ a hablar.
-┃ └━━━
+│ ▢ BOT y tambien enseñarle
+│ │ a hablar.
+│ └━━━
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 │
@@ -140,13 +140,13 @@ Si eres Owner: .omenu
 │ │ Jugamos piedra, papel
 │ │ o tijera.
 │ └━━━
-╰───────────────────────
+╰──────────────
 
-  ──── ❝*STICKER*❞ ────
+  ────❝ *STICKER* ❞────
 
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────
 │
-│  .s
+│  .s / .sticker
 │
 │ ┌━━━
 │ ▢ Crea un sticker
@@ -210,15 +210,14 @@ Si eres Owner: .omenu
 │ ┌━━━
 │ ▢ Repito lo que dijiste.
 │ └━━━ 
-╰──────────────╮
-╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+╰──────────────
 
-  ───── ❝ *SEARCH* ❞ ─────
+  ────❝ *SEARCH* ❞────
 
-╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+╭──˚ ༘✶ ⋆｡ ⁀➷───────
 │
 │  .ytsearch (Busqueda)
- 
+│
 │ ┌━━━ 
 │ │ Busco lo que me pidas 
 │ │ en YouTube.
@@ -244,7 +243,7 @@ Si eres Owner: .omenu
 
  ─── ❝ *DOWNLOAD* ❞ ───
 
-╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+╭──˚ ༘✶ ⋆｡ ⁀➷───────
 │
 │  TODOS ESTOS COMANDOS
 │  SIRVEN PARA DESCARGAS.
@@ -258,8 +257,8 @@ Si eres Owner: .omenu
 ╰──────────────╮
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 │
-│ EN MANTEMINIENTO!!; NO
-│ LOS USES.⚠️
+│ ⚠️EN MANTEMINIENTO!!
+│ NO LOS USES.⚠️
 │
 │  .play
 │  .play2
