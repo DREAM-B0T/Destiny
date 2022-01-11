@@ -485,7 +485,7 @@ ${menuVC}
     break*/
 	case 'admin':
 		if ( !isOwner && !isAdmins && !isBot ) return m.reply(msg.admin)
-		m.reply(`hola`)
+		m.reply(`a`)
 		
 		break
 		
