@@ -1,9 +1,15 @@
 exports.menu = (v) => {
-  return `┌─⊷ *MAIN* 
-▢ ${v}menuvc
-▢ ${v}bot <text>
+  return `───── ❝ *MAIN* ❞ ─────
+
+┍━━▸ 
+│  {v}bot <texto>
+│╭━━━
+││ Puedes hablar con el
+│▢ BOT y tambien enseñar
+││ le.
+│╰━━━
+┕━━▸
 ▢ ${v}info
-▢ ${v}language
 ▢ ${v}ping
 ▢ ${v}owner
 ▢ ${v}join <link>
