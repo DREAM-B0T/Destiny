@@ -452,22 +452,21 @@ if (isBanned) return; // los usuarios con estado baneado no podrán usar el coma
 
 switch (command) { 
  
- case 'menussss': 
+ case 'menu': 
  case 'help':
-    capt = `────  *DyLux  ┃ ᴮᴼᵀ*  ────
-    
-${msg.hi} *${pushname}* ${ucapanWaktu}
+    capt = `⸻ 𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🍃┃⸻
+   
+  ${ucapanWaktu}
+     *${pushname}*
     
 ⎔ *${msg.lvl}* : ${isLevel}
 ⎔ *Premium* : ${prem}
 
-▢ ${msg.cretb}
-• https://youtu.be/F4lGWb1WXgM 
 
 ${readMore}
 ${menu(prefix)} 
 `
-    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *DyLux  ┃ ᴮᴼᵀ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`,  '💢REGLAS', `${prefix}reglas1`, '🤺REGLASBT', `${prefix}reglasbt`, `🌸REGLAS`, `${prefix}reglasrol`)
+    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *DyLux  ┃ ᴮᴼᵀ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`,  '💢REGLAS', `${prefix}reglas1`, '🤺REGLASBT', `${prefix}reglasbt`, `🌸REGLAS`, `${prefix}reglasrol`, `🏴LINK`, `${prefix}link`)
     break
     
    /*case 'menuvc': 
@@ -487,21 +486,23 @@ ${menuVC}
     
     case 'grupos': 
     case 'groups': 
-    case 'dylux': 
+    case 'entrar':
+    case 'link':
+    case 'wsplink':
     gps = `
-≡  *DyLux  ┃ ᴮᴼᵀ*  GRUPOS
+╭─━━━━━━━━━━━━─╮
+    
+𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🌸┃ DreamCoreᵇᵒᵗ
 
-▢ ${msg.gp} 1
-https://chat.whatsapp.com/G5sXrkhJ0pb0Tu8nhWLaFK
+RP Reclutamiento:
 
-▢ ${msg.gp} 2
-https://chat.whatsapp.com/CDUqNRu5Kh5KY5uqQI0BKE
+https://chat.whatsapp.com/JJE9sHV3dhL4Dqqojpqbay
 
-▢ ${msg.gp} 3
-https://chat.whatsapp.com/FSVDTytQxnTIPx8t8wBWeM
+Contacto:
 
-▢ *YouTube*
-• https://www.youtube.com/fg98f
+wa.me/593987516808
+
+╰─━━━━━━━━━━━━─╯
 `
 m.reply(gps)
 break 
@@ -548,7 +549,7 @@ case 'developer':
     capt = `▢ ${msg.num} : @${number.split('@')[0]}\n\n`
     capt += '▢ Instagram : https://www.instagram.com/fg98._'
     await Fg.fakeLink(from, capt, thumbfg, `${msg.click}`, 'https://www.instagram.com/fg98._', mek)*/
-   Fg.sendContact(from, '593987516808', 'FG98', mek) 
+   Fg.sendContact(from, '593987516808', '〔🌹─ 𝔇𝔯𝔢𝔞𝔪𝔦𝔫𝔤﹝彼女﹞〕', mek) 
     break
     
     case 'info':
@@ -585,7 +586,7 @@ case 'developer':
 - Pideselo a mi Maestro.
 
 ` 
-Fg.send2Button(from, teks, '©Destiny with DreamCore™ collab.', `💮PREMIUM`, `${prefix}donate`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
+Fg.send2Button(from, teks, '©Destiny with DreamCore™ collab.', `💮PREMIUM`, `${prefix}donate`, `🌸LINK`, `${prefix}entrar`)
    break
    
     case 'nameninja':
@@ -1765,11 +1766,12 @@ case 'listgroup':
 	❱ One Punch Man. 
 	❱ Jojo’s Bizarre A. 
 	❱ Bleach. 
-	❱ Date a Live. 
+	❱ Date A Live. 
 	❱ Fire Force. 
 	❱ Highschool DxD.
 	❱ Tate no Yuusha. 
 	❱ Tokyo Revengers. 
+	❱ Record Of Ragnarok.
 	
 	〘💢〙𝑁𝑂 𝑃𝐸𝑅𝑀𝐼𝑇𝐼𝐷𝑂𝑆: 
 	
@@ -1800,20 +1802,31 @@ case 'reglasrol': m.reply(`╭══• ೋ•✧๑♡๑✧•ೋ •══╮
 ┊┊* . *　✦
 ┊☆ ° ✧　 　 ·
 ★*
+
 〘🏴〙» Sigue atentamente estas reglas para no tener problemas con los Administradores o tu pareja. 
+
 ──────〘🏴〙────── 
+
 〘⚠️〙𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘: Sabemos que hay gente nueva, asi como expertos en el rol, asi que como Administradores, queremos que la interaccion sea entre todos por eso, este grupo es libre en algunos aspectos como en lineas de rol, obviamente si tu quieres hacer biblias eres libre de hacer eso. 
+
 ⚠️› MINIMO: 8 LINEAS ENTRE DESCRIPCION Y DIALOGO 
 ⚠️› MAXIMO: A TU GUSTO 
+
 〘⛔️〙 Tu rol no tiene que ser seco, no permitimos roles que sean tan basicos, queremos algo de interaccion. EJ: *Lo besa*; *Se baña*; *Come* 
+
 〘💢〙 Ten una buena ortografia y gramatica, no te pedimos que sea perfecta pero si entendible. 
+
 〘💢〙 Usa los signos de rol: 
+
 **〕 Accion con tu personaje sea con un objeto o una persona.
 ~~〕 Pensamiento de tu personaje El texto deberia quedar asi: Q̵u̵e̵ ̵g̵u̵a̵p̵o̵ ̵e̵s̵ ̵J̵o̵n̵a̵t̵h̵a̵n̵
 //〕 Fuera de rol. EJ: Oye, ya comiste?//, Usalo cuando sea
+
 〘💢〙 Respeta a tu compañero de rol, sea On o Off Rol, cualquier falta de respeto sera castigada con BAN. 
+
 〘💢〙 Si quieres realizar un evento, como una boda, acude con los Admins para poder organizarte algo bonito.
 ──────〘🏴〙────── 
+
 ⸺ 𝐺𝐸𝑁𝐸𝑅𝑂𝑆: 
 🎲 Casual: ✅ 
 🎪 Eventos: ✅ 
@@ -1822,10 +1835,17 @@ case 'reglasrol': m.reply(`╭══• ೋ•✧๑♡๑✧•ೋ •══╮
 ⚔️ Battle: ✅ 
 🎀 Otro: ✅ 
 🎌Eventos de grupo: ✅ 
+
 ──────〘🏴〙────── 
+
+
 Comentarios de Admins: 
-Isaac: ptamadre que guapo es Jonathan kya- 
+
+A:ptamadre que guapo es Jonathan kya- 
+
+
 ❝〔🌹─ ᬊᬁ𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+
 ╰══• ೋ•✧๑♡๑✧•ೋ •══╯`)
 		break
 
@@ -1836,25 +1856,39 @@ case 'reglasbt': m.reply(`╭══• ೋ•✧๑♡๑✧•ೋ •══╮
 ┊┊* . *　✦
 ┊☆ ° ✧　 　 ·
 ★*
+
 〘🏴〙» Sigue atentamente estas reglas para no tener problemas con los Administradores y tu oponente. 
+
 ──────〘🏴〙────── 
+
 〘💢〙 Los Administradores estaran monitoreando tu batalla. 
+
 〘💢〙 Cada que pongas un ataque, deberas de poner una descripcion de este. 
+
 EJ: Aliento de Agua: 
 « Rueda de Agua Segunda Postura »
 El usuario de esta postura da un salto y gira en aire mientras lo combina con un ataque fluido giratorio. 
+
 〘💢〙 Deberas ser claro en tus movimientos asi como describirlos bien y tener buena gramatica y ortografia. 
+
 〘💢〙 Si es un evento, tendran un contador que cuando se acabe y nadie de los oponentes haya perdido, entre los administradores se tomara un ganador, se lo elijira mediante a su desempeño en batalla. 
+
 〘💢〙 Si es un evento o pelea en equipos, se lo elijira aleatoriamente a menos que los Administradores den una excepcion. 
+
 〘💢〙 Los ataques mortales que des seran verificados por un administrador, si el golpe es valido, la batalla sera dada de alta y el ganador sera el que menos golpes sufrio o el que haya quedo en pie. 
+
 〘💢〙 Si pierdes, termina tu rol rindiendote o muriendo. 
+
 ──────〘🏴〙────── 
+
+
 ❝〔🌹─ ᬊᬁ𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+
 ╰══• ೋ•✧๑♡๑✧•ೋ •══╯
 `)
 break
 
-case 'reglas1': m.reply(`
+case 'reglas': m.reply(`
 ╭══• ೋ•✧๑♡๑✧•ೋ •══╮ 
 ┊┊┊┊⋆ ✧　 　 · 　 ✧　✵
 ┊┊┊☆ *　　 * ⋆
@@ -1862,39 +1896,61 @@ case 'reglas1': m.reply(`
 ┊┊* . *　✦
 ┊☆ ° ✧　 　 ·
 ★*
+
 〘🏴〙» Sigue atentamente estas reglas para no tener problemas con los Administradores.
+
 ──────〘🏴〙────── 
+
 〘💢〙𝑅𝑒𝑠𝑝𝑒𝑡𝑜 
 No toleramos cualquier falta de respeto a Usuarios o Administradores, justificamos solo si hay confianza entre estos. 
+
 〘💢〙𝑃𝑟𝑖𝑣𝑎𝑐𝑖𝑑𝑎𝑑 
 Por seguridad, no queremos que los hombres molesten a las mujeres por interno o por medio del grupo, si conoces a alguien que te acosa o molesta, acude a un administrador. 
+
 〘💢〙𝐶𝑜𝑛𝑡𝑒𝑛𝑖𝑑𝑜 
 +𝟷𝟾 Permitimos contenido +18, pero el Child Porn (CP) es inaceptable. Si envias cualquier tipo de este contenido, el BOT te denunciara y por asuntos legales, jamas tuvimos contacto contigo. 
+
 〘💢〙𝐵𝑂𝑇 
 No uses el BOT en tus grupos o por interno sin permiso del creador, este BOT esta diseñado solo para satisfacer las necesidades de Ussers y Admins solo en este grupo. 
+
 〘💢〙𝑆𝑃𝐴𝑀 
 No spamees links de grupos de WhatsApp, Fotos, Stickers ni links raros. 
+
 〘💢〙𝐴𝑐𝑡𝑖𝑣𝑖𝑑𝑎𝑑 
 Hacemos limpieza cuando se nos de la regalada gana, asi que mejor estate activo o espera a que te eliminemos. 
+
 〘⚠️〙 Ten cuidado con el antilegiones ya que cualquier contenido que parezca traba como audio/mensaje/foto te eliminara. 
+
 ──────〘🏴〙────── 
+
+
 Queremos que tu estancia sea divertida pero por seguridad de los demas, somos estrictos ya que queremos que la estancia de todos sea sana. 
+
+
 ❝〔🌹─ ᬊᬁ𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+
 ╰══• ೋ•✧๑♡๑✧•ೋ •══╯`) 
 break
 
 case 'reclutamiento': m.reply(`«───── « ⋅ʚ🌴ɞ⋅ » ─────» 
+
 🌴 𝔅𝔦𝔢𝔫𝔳𝔢𝔫𝔦𝔡𝔬 𝔞 ℜ𝔢𝔠𝔩𝔲𝔱𝔞𝔪𝔦𝔢𝔫𝔱𝔬 
+
 [💢]» Queremos recalcar que este es un grupo que trata sobre y para rol, si eres un comediante, no gastes tu tiempo siendo un payaso y salte. 
-[💢]» Este grupo admite contenido +18, asi que si eres menor de 15, salte, a menos que tengas un certificado donde tus padres confirmen tu estadia en este grupo. 
+
+[💢]» Este grupo admite contenido +18, asi que si eres menor de 15, salte, a menos que tengas un certificado donde tus padres confirmen tu estadia en este grupo.
+
 ──────〘🌙〙──────
+
 » Sigue estos pasos para que seas admitido en el grupo: 
+
 ∘[🏴] Presentate con Nombre; edad y Pais. 
 ∘[⚠️] La foto es opcional, respe- tamos tu derecho a la privacidad. 
 ∘[🏴] Despues, escribe los perso- najes que quieras usar, puedes usar como maximo 3. 
 ∘[⚠️] Si quieres saber que animes estan permitidos y cuales no, usa .animes, si usas OC's, escribe .oc para que sepas que tienes que hacer. 
 ∘[🎈] Envia toda esta informacion y tagea a un Admin al final del mensaje. 
 Puedes usar esta base como ayuda: 
+
 დ🏴─────────────── 
 Nombre: 
 Edad: 
@@ -1905,8 +1961,13 @@ Pesonajes:
 ✰
 ✰
 დ🌙─────────────── 
+
+
 Si te parece injusta alguna de estas reglas, comunicate con un administrador o mi creador. 
+
+
 ❝〔🌹─ ᬊᬁ𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+
 «───── « ⋅ʚ🌴ɞ⋅ » ─────»`)
 break 
 		
