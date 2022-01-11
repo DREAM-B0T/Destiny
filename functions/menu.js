@@ -90,6 +90,15 @@ Si eres Owner: .omenu
 │ ┌━━━
 │ ▢ Contacto de mi creador.
 │ └━━━
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+│
+│  .crear
+│
+│ ┌━━━
+│ │ Descubre como hacer tu
+│ │ propio BOT
+│ └━━━
 ╰──────────────
 
   ───── ❝ *FUN* ❞ ─────
