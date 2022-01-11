@@ -467,7 +467,7 @@ ${msg.hi} *${pushname}* ${ucapanWaktu}
 ${readMore}
 ${menu(prefix)} 
 `
-    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *DyLux  ┃ ᴮᴼᵀ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`,  '✆ Owner', `${prefix}owner`, '⏍ Info', `${prefix}info`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
+    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *DyLux  ┃ ᴮᴼᵀ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`,  '💢REGLAS', `${prefix}reglas1`, '🤺REGLASBT', `${prefix}reglasbt`, `🌸REGLAS`, `${prefix}reglasrol`)
     break
     
    /*case 'menuvc': 
@@ -548,7 +548,7 @@ case 'developer':
     capt = `▢ ${msg.num} : @${number.split('@')[0]}\n\n`
     capt += '▢ Instagram : https://www.instagram.com/fg98._'
     await Fg.fakeLink(from, capt, thumbfg, `${msg.click}`, 'https://www.instagram.com/fg98._', mek)*/
-   Fg.sendContact(from, '5493885839638', 'FG98', mek) 
+   Fg.sendContact(from, '593987516808', 'FG98', mek) 
     break
     
     case 'info':
@@ -574,18 +574,18 @@ case 'developer':
 ▢ *${unread.length}* Mensaje no leídos
 
 
-*≡ DISPOSITIVO*
+*〉 OWNER *
 
-▢ Versi Wa : ${Fg.user.phone.wa_version}
+- WhatsApp : wa.me/593987516808 
 
-*≡ OWNER*
-▢ Instagram : https://www.instagram.com/fg98._
-▢ WhatsApp : wa.me/59172945992 
+*〉 BOT API*
 
-*≡ SCRIPT*
-▢ Git : ${package.homepage} 
+▢ WhatsApp : wa.me/593987516808 
+
+- Pideselo a mi Maestro.
+
 ` 
-Fg.send2Button(from, teks, '*_© FG98 DyLux_*', `ꨄ︎ Apoyar`, `${prefix}donate`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
+Fg.send2Button(from, teks, '©Destiny with DreamCore™ collab.', `Premium`, `${prefix}donate`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
    break
    
     case 'nameninja':
@@ -790,26 +790,6 @@ case "s":
     if(!pin) return m.reply('Error')
     Fg.sendMessage(from, await getBuffer(pin), image, { quoted: mek, caption: `✅ *${msg.resulf}*\n`, thumbnail: fakethumb })
  break 
-
-   case 'man':
-    mann = ['hombre', 'man', 'joven guapo']
-    push = pickRandom(mann)
-    m.reply(msg.wait)
-    go = await fgx.pinterest(push)
-    pin = pickRandom(go)
-    if(!pin) return m.reply('Error')
-    Fg.sendButtonImg(from, await getBuffer(pin), `✅ *${msg.resulf}*\n`, msg.next(command), `▷▷ ${msg.next2}`, `${prefix + command}`, mek)
- break
-
-  case 'girl':
-    woman = ['pretty girl', 'girl','russian girl', 'girl in bikinis', 'russian woman']
-    push = pickRandom(woman)
-    m.reply(msg.wait)
-    go = await fgx.pinterest(push)
-    pin = pickRandom(go) 
-    if(!pin) return m.reply('Error')
-    Fg.sendButtonImg(from, await getBuffer(pin), `✅ *${msg.resulf}*\n`, msg.next(command), `▷▷ ${msg.next2}`, `${prefix + command}`, mek)
- break
  
  case 'wallpaper':
  case 'wp':
@@ -1338,7 +1318,7 @@ https://chat.whatsapp.com/${linkgp}`
     case 'addpremium':
     case 'addprem': 
     if(!isGroup) return m.reply(msg.group)
-    if(!isOwner && !isBot) return m.reply(msg.owner)
+    if(!isOwner && !isBot && !isAdmins) return m.reply(msg.owner)
     prem = cekPremium(dia)
     if (prem === true) {
       return m.reply(msg.isprem)
@@ -1350,7 +1330,7 @@ https://chat.whatsapp.com/${linkgp}`
   case 'delpremium':
   case 'delprem':
     if(!isGroup) return m.reply(msg.group)
-    if(!isOwner && !isBot) return m.reply(msg.owner)
+    if(!isOwner && !isBot && !isAdmins) return m.reply(msg.owner)
     prem = cekPremium(dia)
     if (prem === false) {
       return m.reply(msg.noprem)
@@ -1711,7 +1691,7 @@ Fg.groupSettingChange(from, GroupSettingChange.messageSend, true)
    try {
 	      ppimg = await Fg.getProfilePicture(who);
 	    } catch {
-	      ppimg = 'https://i.ibb.co/PZNv21q/Profile-FG98.jpg';
+	      ppimg = 'https://ibb.co/ysLjvyK';
 	    }
 	 Prema = cekPremium(who) ? 'Si' : 'No'
    perfil = ` ┌───「 *${msg.pfile}* 」
@@ -1733,7 +1713,7 @@ Fg.sendMessage(from, prof, image, { thumbnail: fakethumb, quoted: mek, caption: 
    try {
 	      ppimg = await Fg.getProfilePicture(from);
 	    } catch {
-	      ppimg = 'https://i.ibb.co/PZNv21q/Profile-FG98.jpg';
+	      ppimg = 'https://ibb.co/ysLjvyK';
 	    }
    isAntilink = isAntilink ? 'Si' : 'No' 
    isAntidelete = isAntidelete ? 'Si' : 'No' 
@@ -2201,13 +2181,13 @@ case 'delwelcome':
    try {
 	      ppimg = await Fg.getProfilePicture(who);
 	    } catch {
-	      ppimg = 'https://i.ibb.co/PZNv21q/Profile-FG98.jpg';
+	      ppimg = 'https://ibb.co/ysLjvyK';
 	    }
 	welm = await getBuffer(ppimg)
    if(value.toLowerCase() === 'welcome') {
      capt = welc.replace('@user', tag).replace('@name', pushname).replace('@bio', about).replace('@date', tanggal).replace('@desc', groupDesc).replace('@group', groupName) 
  // Fg.sendMessage(from, welm, image, {contextInfo: {  mentionedJid: [sender]}, thumbnail: fakethumb, quoted: mek, caption: capt})
-Fg.send2ButtonLoc(from, welm, capt, 'Sígueme en Instagram\nhttps://www.instagram.com/fg98._', '⦙☰ MENU', '/menu', '⏍ INFO GP', '/infogp', false, {
+Fg.send2ButtonLoc(from, welm, capt, 'Informame de cualquier error.\nwa.me/593987516808.', '⦙☰ MENU', '/menu', '⏍ INFO GP', '/infogp', false, {
 	      contextInfo: { 
             mentionedJid: Fg.parseMention(capt)
 	      } 
@@ -2215,7 +2195,7 @@ Fg.send2ButtonLoc(from, welm, capt, 'Sígueme en Instagram\nhttps://www.instagra
      } else if(value.toLowerCase() === 'bye') {
        capt = bye.replace('@user', tag).replace('@name', pushname).replace('@bio', about).replace('@date', tanggal).replace('@group', groupName)       
   //Fg.sendMessage(from, welm, image, {contextInfo: {  mentionedJid: [sender]}, thumbnail: fakethumb, quoted: mek, caption: capt})
-   Fg.sendButtonLoc(from, welm, capt, 'Sígueme en Instagram\nhttps://www.instagram.com/fg98._', '👋🏻', 'unde', false, {
+   Fg.sendButtonLoc(from, welm, capt, 'Informame de cualquier error.\nwa.me/593987516808.', '🏴', 'unde', false, {
 	      contextInfo: { 
             mentionedJid: Fg.parseMention(capt)
 	      } 
