@@ -584,7 +584,7 @@ ${menuVC}
 │ └━━━
 ╰──────────────
 
-───  𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🍃┃ ───
+  ───  𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🍃┃ ───
 
 ┗━━━━━━━━━━━━━━━┛`)
 		
@@ -592,8 +592,7 @@ ${menuVC}
 		
 	case 'premium':
 		if ( !isOwner && !isAdmins && !isBot && !isPremium ) return m.reply(msg.admin)
-		m.reply(`━━━━━━━━━━━━━━━━━━━
-		
+		m.reply(`━━━━━━━━━━━━━━━━━	
 ┊┊┊┊
 ┊┊┊☆
 ┊┊🌙 *  Bienvenido 
@@ -601,12 +600,12 @@ ${menuVC}
 ┊☆ °
 🌙*
 
-Tus ventajas:
-  Podras descargar musica, videos sin necesidad de que tengas que ir al link, lo hare por ti.
-  Podras usar distintos comandos que solo estan disponibles para administradores.
+   *_Tus ventajas:_*
+_Podras descargar musica, videos sin necesidad de que tengas que ir al link, lo hare por ti._
+_Podras usar distintos comandos que solo estan disponibles para administradores._
 
 ╭──˚ ༘✶ ⋆｡ ⁀➷───────
-│
+│ ┌━━━ 
 │ │ .voting (Razón)
 │ │   Realiza una
 │ │   votacion.
