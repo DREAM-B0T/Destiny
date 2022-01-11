@@ -9,8 +9,8 @@ exports.menu = (v) => {
 ┃ ▢ BOT y tambien enseñarle
 ┃ │ a hablar.
 ┃ └━━━
-╰───────────────╮
-╭──˚ ༘✶ ⋆｡˚ ⁀➷────────╯
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡˚ ⁀➷─────╯
 │  .info
 │ ┌━━━
 │ │ Ve la info del BOT.
