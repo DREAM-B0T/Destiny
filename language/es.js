@@ -5,7 +5,7 @@ exports.vnCmd = (v) => {
 
 // -- enviar mensaje 
 exports.wait = `[⌛] 𝙿𝚛𝚘𝚌𝚎𝚜𝚊𝚗𝚍𝚘 ▬▬▬▭`;
-exports.bye = `[💤]⸺ 𝘐𝘳𝘦 𝘢 𝘥𝘰𝘳𝘮𝘪𝘳. . .`;
+exports.bye = `[💤]⸺ Iras a dormir.`;
 exports.done = `[✔️ 𝙃𝙚𝙘𝙝𝙤 ✔️]`;
 exports.next = (value) => {
   return `Haga click en siguiente para *${value}* `;
