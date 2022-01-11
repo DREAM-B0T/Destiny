@@ -487,12 +487,11 @@ ${menuVC}
 		if ( !isOwner && !isAdmins && !isBot ) return m.reply(msg.admin)
 		m.reply(`┏━━━━━━━━━━━━━━━┓
 ✷     　 ·     　 ·    　 ✧　  ✵
-    ˚    *    .               ☆ *　　 * ⋆
+    ˚    *    .        ☆      *　　 * ⋆
  *    𝐵𝑖𝑒𝑛𝑣𝑒𝑛𝑖𝑑𝑜. . . 　 *    ⋆    .
  · 　 ⋆ 　　　 ˚      ˚ 　    ✦
- 　 ⋆       ·      ${pushname}    *
- 　　　　 ⋆      ✧　  　 · 　 ✧　✵
- 　 · ✵	
+ 　 ⋆       ·  ${pushname}    *
+ 　　　　 ⋆      ✧　 　 · 　 ✧　✵ · ✵	
 
      "𝑇𝑜𝑚𝑎 𝑡𝑢 𝑖𝑛𝑠𝑡𝑖𝑛𝑡𝑜 𝑑𝑒 𝑎𝑢𝑡𝑜𝑟𝑖𝑑𝑎𝑑 
      𝑦 𝑡𝑟𝑎𝑡𝑎 𝑑𝑒 𝑒𝑠𝑐𝑜𝑔𝑒𝑟 𝑑𝑒𝑐𝑖𝑠𝑖𝑜𝑛𝑒𝑠 𝑑𝑒
@@ -585,13 +584,46 @@ ${menuVC}
 │ └━━━
 ╰──────────────
 
+───  𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🍃┃ ───
+
 ┗━━━━━━━━━━━━━━━┛`)
 		
 		break
 		
 	case 'premium':
 		if ( !isOwner && !isAdmins && !isBot && !isPremium ) return m.reply(msg.admin)
-		m.reply(``)
+		m.reply(`━━━━━━━━━━━━━━━━━━━
+		
+┊┊┊┊
+┊┊┊☆
+┊┊🌙 *  Bienvenido 
+┊┊             ${pushname}
+┊☆ °
+🌙*
+
+Tus ventajas:
+  Podras descargar musica, videos sin necesidad de que tengas que ir al link, lo hare por ti.
+  Podras usar distintos comandos que solo estan disponibles para administradores.
+
+╭──˚ ༘✶ ⋆｡ ⁀➷───────
+│
+│ │ .voting (Razón)
+│ │   Realiza una
+│ │   votacion.
+│ │
+│ │ .checkvote
+│ │   Revisa los votos.
+│ │
+│ │ .delvote
+│ │   Elimina la
+│ │   votacion.
+│ │
+│ │ .hidetag
+│ │   Etiqueta a todos
+│ │   los usuarios sin
+│ │   su tag.
+│ └━━━
+╰──────────────`)
 		
 		break
 		
@@ -618,7 +650,7 @@ wa.me/593987516808
 m.reply(gps)
 break 
 
-	case 'bepremium':
+	case 'serpremium':
 case 'donate':
 case 'donar':
  m.reply(msg.donate) 
@@ -677,14 +709,14 @@ case 'developer':
 					}
 				}
    uptime = process.uptime()
-   teks = `≡  *INFO BOT*
+   teks = ` *⸺🌹 INFO. . .*
    
    *ESTADO*
-▢ Contactos : ${Object.keys(Fg.contacts).length}
-▢ Total Chats : *${totalchat.length}* 
-▢ *${totalchat.length - giid.length}* Chats privados
-▢ *${giid.length}* Chats de grupo
-▢ *${unread.length}* Mensaje no leídos
+ PING: ${latensi.toFixed(3)} _${msg.pinse}_
+ Contactos : ${Object.keys(Fg.contacts).length}
+ Total Chats : *${totalchat.length}* 
+ *${totalchat.length - giid.length}* Chats privados
+ *${unread.length}* Mensaje no leídos
 
 
 *〉 OWNER*
@@ -741,8 +773,8 @@ Fg.send2Button(from, teks, '©Destiny with DreamCore™ collab.', `💮PREMIUM`,
     Fg.fakeReply(from, text1, dia, text2, from)
     break
   
-case 'pregunta':
-case 'preg':
+case 'preguntassss':
+case 'pregsssss':
 if(!value) return m.reply(`📌 *${msg.exple} :*\n *${prefix + command}* ${msg.pregt}`)
 prefg = await fetchJson(`https://api.simsimi.net/v2/?text=${value}&lc=${cekBahasa(who)}`, {method: 'get'})
  m.reply(`≡ *PREGUNTAS*
@@ -1134,7 +1166,7 @@ break
 		    		aramat = aramas.all 
 		    		var tbuff = await getBuffer(aramat[0].image)
 		    		var ytresult = '';
-		    		ytresult += '「 *YOUTUBE SEARCH* 」'
+		    		ytresult += '「   *YOUTUBE*  」'
 		    		ytresult += '\n________________________\n\n'
 		   			aramas.all.map((video) => {
 		        	ytresult += '📌 *Título :* ' + video.title + '\n'
@@ -1142,7 +1174,7 @@ break
 		            ytresult += '*⏳ Duración* : ' + video.timestamp + '\n'
 		            ytresult += '*📤 Publicado* : ' + video.ago + '\n________________________\n\n'
 		    		});
-		    		ytresult += '─── DyLux ┃ ᴮᴼᵀ ───'
+		    		ytresult += '───  𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🍃┃ ───'
 		    		 Fg.sendMessage(from, tbuff, image, {thumbnail:fakethumb , quoted: mek, caption: ytresult})
 		            break
    
@@ -1902,7 +1934,7 @@ case 'listgroup':
 	Si tienes alguna sugerencia de agregar otro cualquier anime a los permitidos, contacta con un Admin. Si tienes un OC usa .oc, sigue las instrucciones de reclutamiento. 
 	
 	
-	❝〔🌹─ ᬊᬁ𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+	❝〔🌹─ 𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
 	
 	──────〘🌴〙──────
 	`)
@@ -1957,7 +1989,7 @@ Comentarios de Admins:
 A:ptamadre que guapo es Jonathan kya- 
 
 
-❝〔🌹─ ᬊᬁ𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+❝〔🌹─ 𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
 
 ╰══• ೋ•✧๑♡๑✧•ೋ •══╯`)
 		break
@@ -1995,7 +2027,7 @@ El usuario de esta postura da un salto y gira en aire mientras lo combina con un
 ──────〘🏴〙────── 
 
 
-❝〔🌹─ ᬊᬁ𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+❝〔🌹─ 𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
 
 ╰══• ೋ•✧๑♡๑✧•ೋ •══╯
 `)
@@ -2040,7 +2072,7 @@ Hacemos limpieza cuando se nos de la regalada gana, asi que mejor estate activo 
 Queremos que tu estancia sea divertida pero por seguridad de los demas, somos estrictos ya que queremos que la estancia de todos sea sana. 
 
 
-❝〔🌹─ ᬊᬁ𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+❝〔🌹─ 𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
 
 ╰══• ೋ•✧๑♡๑✧•ೋ •══╯`) 
 break
@@ -2079,7 +2111,7 @@ Pesonajes:
 Si te parece injusta alguna de estas reglas, comunicate con un administrador o mi creador. 
 
 
-❝〔🌹─ ᬊᬁ𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+❝〔🌹─ 𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
 
 «───── « ⋅ʚ🌴ɞ⋅ » ─────»`)
 break 
@@ -2109,7 +2141,7 @@ case 'crear': m.reply(`	«───── « ⋅ʚ🌴ɞ⋅ » ─────»
 	
 	
 	
-❝〔🌹─ ᬊᬁ𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+❝〔🌹─ 𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
 	
 «───── « ⋅ʚ🌴ɞ⋅ » ─────»`)
 break
@@ -2143,7 +2175,7 @@ ${msg.rzon} : ${value}
     case 'delvote':
     case 'delvoto':
    if(!isGroup) return m.reply(msg.group)
-   if(!isAdmins) return m.reply(msg.admin)
+   if(!isAdmins && !isPremium) return m.reply(msg.admin)
     if (!(from in Fg.vote)) {
         await m.reply(msg.nomain(msg.vtc))
         return false
@@ -2209,7 +2241,7 @@ ${listDevote}`.trim()
 
  case 'checkvote':
    if(!isGroup) return m.reply(msg.group)
-  // if(!isAdmins) return m.reply(msg.admin)
+  // if(!isAdmins && !isPremium) return m.reply(msg.admin)
    if (!(from in Fg.vote)) {
         await m.reply(msg.nomain(msg.vtc))
         throw false
