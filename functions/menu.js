@@ -2,7 +2,7 @@ exports.menu = (v) => {
   return `
   ───── ❝ *MAIN* ❞ ─────
 
-╭─˚ ༘✶ ⋆｡˚ ⁀➷─────────
+╭─˚ ༘✶ ⋆｡ ⁀➷─────────
 │  .bot (texto)
 │ ┌━━━
 │ │ Puedes hablar con el
@@ -16,22 +16,23 @@ exports.menu = (v) => {
 │ │ Ve la info del BOT.
 │ │
 │ └━━━
-╰───────────────╮
-╭─˚ ༘✶ ⋆｡˚ ⁀➷────────╯
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 │  .ping
 │ ┌━━━
 │ │ Ping del Bot.
 │ └━━━
-╰─────────────────╮
-╭──˚ ༘✶ ⋆｡˚ ⁀➷────────╯
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 │  .owner
 │ ┌━━━
 │ │ Contacto de mi creador.
 │ └━━━
-╰──────────────────────╮
+╰──────────────╮
+
   ───── ❝ *FUN* ❞ ─────
   
-╭─˚ ༘✶ ⋆｡˚ ⁀➷─────────
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 │  .fake text|@user|text
 │ ┌━━━
 │ │ Creo un texto falso
@@ -39,8 +40,8 @@ exports.menu = (v) => {
 │ │ mensaje falso de un
 │ │ integrante.
 ┃ └━━━
-╰──────────────────────╮
-╭──˚ ༘✶ ⋆｡˚ ⁀➷────────╯
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 │  .preg (texto)
 │ ┌━━━
 │ │ Respondo una pregunta.
@@ -49,19 +50,19 @@ exports.menu = (v) => {
 
   ───── ❝ *GAMES* ❞ ─────
 
-╭──˚ ༘✶ ⋆｡˚ ⁀➷────────╯
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 │  .verdad
 │ ┌━━━
 │ │ Te mando una verdad.
 │ └━━━
-╰──────────────────────╮
-╭──˚ ༘✶ ⋆｡˚ ⁀➷────────╯
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 │  .reto
 │ ┌━━━
 │ │ Te mando un reto.
 │ └━━━
-╰──────────────────────╮
-╭──˚ ༘✶ ⋆｡˚ ⁀➷────────╯
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 │  .ppt
 │ ┌━━━
 │ │ Jugamos piedra, papel
@@ -69,38 +70,105 @@ exports.menu = (v) => {
 │ └━━━
 ╰───────────────────────
 
-  ───── ❝ *GAMES* ❞ ─────
+  ───── ❝ *STICKER* ❞ ─────
 
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+  .s
+  
+  Crea un sticker
+  etiquetando una imagen
+  o un video que dure
+  menos de 10sec.
+  
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
 
-┌─⊷ *STICKER* 
-▢ ${v}sticker <nombre>|<autor>
-▢ ${v}take <nombre>|<autor>
-▢ ${v}toimg
-▢ ${v}attp
-└─────────────
-┌─⊷ *PICTURE* 
-▢ ${v}pinterest
-▢ ${v}imagen
-▢ ${v}girl
-▢ ${v}man
-▢ ${v}wallpaper
-└─────────────
-┌─⊷ *TOOLS*
-▢ ${v}afk <razon>
-▢ ${v}fakethumb
-▢ ${v}tomp3
-▢ ${v}toav
-▢ ${v}q
-▢ ${v}say <text>
-└─────────────
-┌─⊷ *EDUCACIÓN* 
-▢ ${v}translate <lang><text>
-└─────────────
-┌─⊷ *BUSQUEDA*
-▢ ${v}playstore
-▢ ${v}ytsearch
-▢ ${v}google
-└─────────────
+  .toim
+  
+  Convierte un sticker
+  a una imagen.
+  
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+
+  .take nombre|autor
+  
+  Roba un sticker.
+╰──────────────╮
+
+  ───── ❝ *TOOLS* ❞ ─────
+
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+
+  .afk (Razón)
+  
+  Estaras AFK hasta que
+  el BOT envies un 
+  mensaje.
+  
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+
+  .fakethumb
+  
+  Crea una imagen.
+
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+
+  .tomp3
+  
+  Convierte un video a
+  un audio.
+
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+
+  .toav
+  
+  Convierte un audio a
+  video.
+
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+
+  .say (texto)
+  
+  Repito lo que dijiste.
+
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+
+  ───── ❝ *SEARCH* ❞ ─────
+
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+
+  .ytsearch (Busqueda)
+  
+  Busco lo que me pidas 
+  en YouTube.
+
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+
+  .google (Busqueda)
+  
+  Busco lo que me pidas
+  en Google.
+ 
+ 
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+
+  .playstore
+  
+  Busco lo que me pidas
+  en PlayStore.
+
+╰──────────────╮
+╭──˚ ༘✶ ⋆｡ ⁀➷───────╯
+
 ┌─⊷ *DOWNLOAD* 
 ▢ ${v}play
 ▢ ${v}play2
