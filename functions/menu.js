@@ -267,46 +267,7 @@ Si eres Owner: .omenu
 │ ┌━━━
 │ ▢ Reproduce videos.
 │ └━━━
-╰──────────────
-
-
-┌─⊷ *VOTING* 
-▢ ${v}voting <text>
-▢ ${v}delvote
-▢ ${v}checkvote
-└─────────────
-┌─⊷ *ADMIN* 
-▢ ${v}setwelcome
-▢ ${v}setbye
-▢ ${v}delwelcome
-▢ ${v}delbye
-▢ ${v}simulate <welcome/bye>
-▢ ${v}group <open/close>
-▢ ${v}resetlink
-▢ ${v}banchat
-▢ ${v}unbanchat
-▢ ${v}hidetag
-▢ ${v}notify
-▢ ${v}tagall
-▢ ${v}setppgp
-▢ ${v}setname <text>
-▢ ${v}setdesc <text>
-▢ ${v}add <numero>
-▢ ${v}kick @user
-▢ ${v}promote @user
-▢ ${v}demote @user
-▢ ${v}warn @user
-▢ ${v}delwarn @user
-▢ ${v}warns @user
-└─────────────
-┌─⊷ *GRUPO*
-▢ ${v}welcome on/off
-▢ ${v}antidelete on/off
-▢ ${v}detect on/off
-▢ ${v}antilink on/off
-▢ ${v}link
-▢ ${v}invite <549xxxx> 
-└─────────────`;
+╰──────────────`;
 };
 
 exports.menuVC = `
