@@ -452,8 +452,8 @@ if (isBanned) return; // los usuarios con estado baneado no podrán usar el coma
 
 switch (command) { 
  
- case 'menudd': 
- case 'helpdd':
+ case 'menu': 
+ case 'help':
     capt = `───  𝐷𝑒𝑠𝑡𝑖𝑛𝑦 ┃🍃┃ ───
    
 ${ucapanWaktu}. . .
@@ -483,7 +483,12 @@ ${menuVC}
 `
     Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *DyLux  ┃ ᴮᴼᵀ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`, '✆ Owner', `${prefix}owner`, '⏍ Info', `${prefix}info`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
     break*/
-    
+	case 'admin':
+		if ( !isOwner && !isAdmins && !isBot ) return m.reply(msg.admin)
+		m.reply(`hola`)
+		
+		break
+		
     case 'grupos': 
     case 'groups': 
     case 'entrar':
@@ -507,6 +512,7 @@ wa.me/593987516808
 m.reply(gps)
 break 
 
+	case 'bepremium':
 case 'donate':
 case 'donar':
  m.reply(msg.donate) 
