@@ -20,7 +20,7 @@ ATT: 𝐿𝑎 𝐴𝑑𝑚𝑖𝑛𝑖𝑠𝑡𝑟𝑎𝑐𝑖𝑜𝑛.
 
 const byeAwal = `‿︵‿︵ʚ˚̣̣̣͙ɞ・💢・ ʚ˚̣̣̣͙ɞ‿︵‿︵
 
-@user* ha salido de @group, esperemos le vaya bien, de todas formas nos olvidaremos de que existe en 3 horas o 1 dia.
+@user ha salido de @group, esperemos le vaya bien, de todas formas nos olvidaremos de que existe en 3 horas o 1 dia.
 
 Como sea, en que andabamos?.
 
