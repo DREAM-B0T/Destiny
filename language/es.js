@@ -100,6 +100,7 @@ Los requisitos minimos son:
 Tener almenos 3000 mensajes no SPAM.
 Actividad seguida.
 Participacion en eventos.
+3500 COINS
 
 Algunas de las ventajas premium son poder usar comandos de Administradores o la facilidad de que el BOT descargue musica o videos por ti.
 ━━━━━━━━━━━━━━━━━`;
