@@ -101,7 +101,7 @@ Fg.on('group-participants-update', async (anu) => {
   try {
 	      ppimg = await Fg.getProfilePicture(`${anu.participants[0].split('@')[0]}@c.us`);
 	    } catch {
-	      ppimg = 'https://i.ibb.co/PZNv21q/Profile-FG98.jpg';
+	      ppimg = 'https://ibb.co/ysLjvyK';
 	    } 
 	
   if (anu.action == 'promote') {
