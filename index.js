@@ -2271,8 +2271,6 @@ case 'reclutamiento': m.reply(`«───── « ⋅ʚ🌴ɞ⋅ » ───�
 
 *[*💢❱ Queremos recalcar que este es un grupo que trata sobre y para rol, si eres un comediante, no gastes tu tiempo siendo un payaso y salte. 
 
-*[*💢❱ Este grupo admite contenido +18, asi que si eres menor de 15, salte, a menos que tengas un certificado donde tus padres confirmen tu estadia en este grupo.
-
 ──────〘🌙〙──────
 
 » Sigue estos pasos para que seas admitido en el grupo: 
@@ -2285,7 +2283,16 @@ case 'reclutamiento': m.reply(`«───── « ⋅ʚ🌴ɞ⋅ » ───�
 
 ⚠️❱ Si quieres saber que animes estan permitidos y cuales no, usa .animes, si usas OC's, escribe .oc para que sepas que tienes que hacer. 
 
-🎈❱ Envia toda esta informacion y tagea a un Admin al final del mensaje. 
+
+Si te parece injusta alguna de estas reglas, comunicate con un administrador o mi creador. 
+
+
+❝〔🌹─ 𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+
+«───── « ⋅ʚ🌴ɞ⋅ » ─────»`)
+		
+	case 'xdxd':
+		m.reply(`🎈❱ Envia toda esta informacion y tagea a un Admin al final del mensaje. 
 Puedes usar esta base como ayuda: 
 
 დ🏴─────────────── 
@@ -2297,16 +2304,8 @@ Pesonajes:
 ❱
 ❱
 ❱
-დ🌙─────────────── 
-
-
-Si te parece injusta alguna de estas reglas, comunicate con un administrador o mi creador. 
-
-
-❝〔🌹─ 𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
-
-«───── « ⋅ʚ🌴ɞ⋅ » ─────»`)
-break 
+დ🌙───────────────`)
+		break
 		
 		//Con este case se envia la aplicacion Tutorial case 'tutorial': 
 	
