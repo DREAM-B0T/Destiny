@@ -801,6 +801,8 @@ algo que quieras poner(opcional)
 
 ┗━━━━━━༻✧༺━━━━━━┛`)
 		
+break
+		
     case 'grupos': 
     case 'groups': 
     case 'entrar':
