@@ -626,6 +626,181 @@ _Podras usar distintos comandos que solo estan disponibles para administradores.
 		
 		break
 		
+	case 'oc':
+		m.reply(`︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵
+
+│││
+
+│││
+
+│││
+
+││✦
+
+│✦
+
+✦
+
+USA ESTA FICHA PARA DESCRIBIR A TU OC, SI YA TIENES UN OC CON FICHA, ENVIALA Y ETIQUETA A UN ADMINISTRADOR.
+
+SI VAS A USAR ESTA, LLENALA Y AL FINAL TAGEA A UN ADMINISTRADOR.
+
+┏━━━━━━༻✧༺━━━━━━┓
+
+frase(opcional)
+
+┗━━━━━━༻✧༺━━━━━━┛
+
+━━━━━━✧♛✧━━━━━━
+
+ɗɑtѳs gɛɳɛʀɑʆɛs
+
+━━━━━━✧♛✧━━━━━━
+
+❯── Nombre ──❮
+
+❯── Apellido ──❮
+
+❯── Genero ──❮
+
+❯── Edad ──❮
+
+❯── Ocupación ──❮
+
+❯── O.sexual──❮
+
+❯── Nació en ──❮
+
+❯── Vive en ──❮
+
+❯── Idiomas ──❮
+
+❯── Tipo de sangre ──❮
+
+❯── Religión ──❮
+
+❯── Altura ──❮
+
+❯── Peso ──❮
+
+❯── Estado civil ──❮
+
+❯── Cumpleaños ──❮
+
+❯── Especie ──❮
+
+❯── Enfermedad ──❮
+
+
+ஜ☆❀☆ஜ
+
+
+✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈                                              
+
+foto (opcional)                                            
+
+━━━━━━✧♛✧━━━━━━
+
+Aspecto Físico
+
+━━━━━━✧♛✧━━━━━━
+
+cabello
+
+piel
+
+ojos
+
+pestañas
+
+complexión
+
+marcas en la piel (lunares, cicatrizes, quemaduras etc)
+
+forma de caminar
+
+defectos físicos
+
+━━━━━━✧♛✧━━━━━━
+
+Aspecto personal
+
+━━━━━━✧♛✧━━━━━━
+
+❯── personalidad
+
+❯── Lo que lo hace feliz
+
+❯── lo que lo hace estar triste
+
+❯── lo que lo enoja
+
+❯── habitos
+
+❯── gente cercana
+
+❯── estilo de vida
+
+❯── poseciones
+
+❯── Miedos
+
+❯── Sus recuerdos
+
+  más profundos
+
+❯── Come
+
+❯── Vestimenta(s
+
+❯── gustos
+
+❯── disgustos
+
+❯── habilidades
+
+❯── debilidades
+
+❯──apodo
+
+❯── enamoramiento
+
+❯── significado de su nombre
+
+❯── accesorios
+
+❯── Voz
+
+❯── enemigos
+
+❯── Mascotas
+
+❯── clase social
+
+❯── recuerdo más temprano
+
+❯── cosas que hace sin darse cuenta
+
+❯── metas
+
+━━━━━━✧♛✧━━━━━━
+
+ɦistѳʀiɑ
+
+━━━━━━✧♛✧━━━━━━
+
+Historia
+
+curiosidades
+
+Datos extra
+
+┏━━━━━━༻✧༺━━━━━━┓
+
+algo que quieras poner(opcional)
+
+┗━━━━━━༻✧༺━━━━━━┛`)
+		
     case 'grupos': 
     case 'groups': 
     case 'entrar':
