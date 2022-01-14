@@ -830,7 +830,7 @@ break
 
 case 'gracias':
 
-  	Fg.sendMessage(from, desthumb, image, {thumbnail: fakethumb, quoted: mek, caption: `┃🌹┃ No hay de que. ${pushname}`})
+  	Fg.sendMessage(from, desthumb, image, {thumbnail: fakethumb, quoted: mek, caption: `┃🌹┃ No hay de que,\n ${pushname}.`})
 					  
 break					
 
