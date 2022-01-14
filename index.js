@@ -835,7 +835,7 @@ case 'gracias':
 		
 	gracias = `graciasd`
 	
-  	Fg.sendMessage(from, gracias, image, {thumbnail: desthumb, quoted: mek, caption: `┃🌹┃ No hay de que.`})
+  	Fg.sendMessage(from, thumbfg, image, {thumbnail: desthumb, quoted: mek, caption: `┃🌹┃ No hay de que.`})
 					  
 break					
 
