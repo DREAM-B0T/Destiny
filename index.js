@@ -829,13 +829,8 @@ m.reply(gps)
 break 
 
 case 'gracias':
-	graciasd = `┃🌹┃ No hay de que.`
-	
-	m.reply(graciasd)
-		
-	gracias = `graciasd`
-	
-  	Fg.sendMessage(from, thumbfg, image, {thumbnail: desthumb, quoted: mek, caption: `┃🌹┃ No hay de que.`})
+
+  	Fg.sendMessage(from, desthumb, image, {thumbnail: fakethumb, quoted: mek, caption: `┃🌹┃ No hay de que.`})
 					  
 break					
 
