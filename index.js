@@ -170,6 +170,8 @@ let thumbfg = fs.readFileSync('./temp/fg.jpg');
 
 let fakethumb = fs.readFileSync('./temp/fake.jpg'); 
 
+let desthumb = fs.readFileSync('./temp/Destiny.png');
+
 let baterai = {
     baterai: 0,
     cas: false
@@ -825,6 +827,17 @@ wa.me/593987516808
 `
 m.reply(gps)
 break 
+
+case 'gracias':
+	graciasd = `┃🌹┃ No hay de que.`
+	
+	m.reply(graciasd)
+		
+	gracias = `graciasd`
+	
+  	Fg.sendMessage(from, gracias, image, {thumbnail: desthumb, quoted: mek, caption: `┃🌹┃ No hay de que.`})
+					  
+break					
 
 	case 'serpremium':
 case 'donate':
