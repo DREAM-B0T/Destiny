@@ -151,6 +151,7 @@ const {
 
 const { msgFilter } = require('./functions/antispam')
 const { menu, menuVC } = require('./functions/menu'); 
+const { lista } = require('.functions/lista');
 const { espa, ind, eng, port } = require('./language/index');
 
 // funciones de  ./functions/setting-bot
