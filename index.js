@@ -829,9 +829,14 @@ wa.me/593987516808
 m.reply(gps)
 break 
 
+	case 'lista':
+		Fg.sendMessage(from, desthumb, image, {thumbnail: fakethumb, quoted: mek, cation: lista})
+	break
+		
+
 case 'gracias':
 
-  	Fg.sendMessage(from, desthumb, image, {thumbnail: fakethumb, quoted: mek, caption: `┃🌹┃ No hay de que,\n ${pushname}.`})
+  	Fg.sendMessage(from, desthumb, image, {thumbnail: fakethumb, quoted: mek, caption: `┃🌹┃ No hay de que, ${pushname}.`})
 					  
 break					
 
