@@ -829,11 +829,15 @@ m.reply(gps)
 break 
 
 	case 'lista':
-lista = `Hello world`
-
+lista = `
+Hello world
+`
 m.reply(lista)
 	break
 		
+	case 'updatelista':
+	if(!isOwner && !isBot && !isAdmins) return m.reply(msg.admin)
+	break
 
 case 'gracias':
 
