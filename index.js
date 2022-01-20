@@ -153,8 +153,6 @@ const { msgFilter } = require('./functions/antispam')
 const { menu, menuVC } = require('./functions/menu'); 
 const { espa, ind, eng, port } = require('./language/index');
 
-const { lista } = require('./functions/lista');
-
 // funciones de  ./functions/setting-bot
 let ownerNumber = st.ownerNumber;
 let isPoingame = st.poinGame; 
