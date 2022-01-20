@@ -829,6 +829,8 @@ m.reply(gps)
 break 
 
 	case 'lista':
+		const 'lista' = ('./functions/lista');
+		
 		Fg.sendMessage(from, desthumb, image, {thumbnail: fakethumb, quoted: mek, cation: lista})
 	break
 		
