@@ -830,7 +830,7 @@ break
 
 	case 'lista':
 	const { lista } = requiere('./functions/lista');
-		Fg.sendMessage(from, desthumb, image, {thumbnail: fakethumb, quoted: mek, cation: lista})
+		Fg.sendMessage(from, desthumb, image, {thumbnail: fakethumb, quoted: mek, caption: lista})
 	break
 		
 
