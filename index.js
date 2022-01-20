@@ -829,8 +829,8 @@ m.reply(gps)
 break 
 
 	case 'lista':
-	const { lista } = requiere('./functions/lista');
-		Fg.sendMessage(from, desthumb, image, {thumbnail: fakethumb, quoted: mek, caption: lista})
+lista = `Hello world`
+m.reply lista
 	break
 		
 
