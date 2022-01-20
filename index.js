@@ -830,7 +830,8 @@ break
 
 	case 'lista':
 lista = `Hello world`
-m.reply lista
+
+m.reply(lista)
 	break
 		
 
