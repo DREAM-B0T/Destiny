@@ -827,11 +827,7 @@ wa.me/593987516808
 `
 m.reply(gps)
 break 
-		
-case 'updatelista':
-	if(!isOwner && !isBot && !isAdmins) return m.reply(msg.admin)
-	break
-		
+				
 case 'gracias':
 
   	Fg.sendMessage(from, desthumb, image, {thumbnail: fakethumb, quoted: mek, caption: `┃🌹┃ No hay de que, ${pushname}.`})
