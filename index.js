@@ -629,179 +629,165 @@ _Podras usar distintos comandos que solo estan disponibles para administradores.
 		break
 		
 	case 'oc':
-		m.reply(`︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵
+		m.reply(`꒥꒷꒦𓂃꒥꒷꒦𓂃꒦꒷ 𝑶𝑪ׅׄ𝒔˙ ꒷꒦𓂃꒥꒷꒦𓂃꒥꒷꒦
 
-│││
+{$pushname}, Estas en la sección de OCs, la siguiente ficha que se te pasará, la deberás usar para describir a tu OC, si ya tienes una, reenviala al grupo y tarea a un Administrador.
 
-│││
+Caso contrario, llena esta y tagea a un Administrador.
 
-│││
+𝐹𝑖𝑐ℎ𝑎:
 
-││✦
+⎯⎯⎯ꗃ 𝑫𝒂𝒕𝒐𝒔 𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒆𝒔 •°⎯⎯⎯
 
-│✦
+᭧⃟🫐⃕  Nombre:
 
-✦
+⤿
 
-USA ESTA FICHA PARA DESCRIBIR A TU OC, SI YA TIENES UN OC CON FICHA, ENVIALA Y ETIQUETA A UN ADMINISTRADOR.
+᭧⃟🫐⃕  Apellido:
 
-SI VAS A USAR ESTA, LLENALA Y AL FINAL TAGEA A UN ADMINISTRADOR.
+⤿
 
-┏━━━━━━༻✧༺━━━━━━┓
+᭧⃟🫐⃕  Edad:
 
-frase(opcional)
+⤿
 
-┗━━━━━━༻✧༺━━━━━━┛
+᭧⃟🫐⃕  Apodo:
 
-━━━━━━✧♛✧━━━━━━
+⤿
 
-ɗɑtѳs gɛɳɛʀɑʆɛs
+᭧⃟🫐⃕  Genero:
 
-━━━━━━✧♛✧━━━━━━
+⤿
 
-❯── Nombre ──❮
+᭧⃟🫐⃕  O.Sexual:
 
-❯── Apellido ──❮
+⤿
 
-❯── Genero ──❮
+᭧⃟🫐⃕  Tipo de Sangre:
 
-❯── Edad ──❮
+⤿
 
-❯── Ocupación ──❮
+᭧⃟🫐⃕  Altura:
 
-❯── O.sexual──❮
+⤿
 
-❯── Nació en ──❮
+᭧⃟🫐⃕  Peso:
 
-❯── Vive en ──❮
+⤿
 
-❯── Idiomas ──❮
+᭧⃟🫐⃕  Ocupacion:
 
-❯── Tipo de sangre ──❮
+⤿
 
-❯── Religión ──❮
+᭧⃟🫐⃕  Nacio en:
 
-❯── Altura ──❮
+⤿
 
-❯── Peso ──❮
+᭧⃟🫐⃕  Cumpleaños:
 
-❯── Estado civil ──❮
+⤿
 
-❯── Cumpleaños ──❮
+᭧⃟🫐⃕  Vive en:
 
-❯── Especie ──❮
+⤿
 
-❯── Enfermedad ──❮
+᭧⃟🫐⃕  Idiomas:
 
+⤿
 
-ஜ☆❀☆ஜ
+᭧⃟🫐⃕  Enfermedad: (En caso de no tener ninguna, dejalo en blanco o pon "ninguno".)
 
+⤿
 
-✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈                                              
+᭧⃟🫐⃕  Tono de voz:
 
-foto (opcional)                                            
+⤿
 
-━━━━━━✧♛✧━━━━━━
+⎯⎯⎯᭗ 𝑨𝒔𝒑𝒆𝒄𝒕𝒐 𝑭𝒊𝒔𝒊𝒄𝒐 •°⎯⎯⎯
 
-Aspecto Físico
+᭧⃟🐧⃕  Color de Cabello y textura:
 
-━━━━━━✧♛✧━━━━━━
+⤿
 
-cabello
+᭧⃟🐧⃕  Tez:
 
-piel
+⤿
 
-ojos
+᭧⃟🐧⃕  Ojos:
 
-pestañas
+⤿
 
-complexión
+᭧⃟🐧⃕  Complexión o forma del cuerpo:
 
-marcas en la piel (lunares, cicatrizes, quemaduras etc)
+⤿
 
-forma de caminar
+᭧⃟🐧⃕  Vestimenta:
 
-defectos físicos
+⤿
 
-━━━━━━✧♛✧━━━━━━
+᭧⃟🐧⃕  Accesorios:
 
-Aspecto personal
+⤿
 
-━━━━━━✧♛✧━━━━━━
+᭧⃟🐧⃕  Marcas de piel: (Lunares, quemaduras, etc.)
 
-❯── personalidad
+⤿
 
-❯── Lo que lo hace feliz
+⎯⎯⎯᭧ 𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍𝒊𝒅𝒂𝒅 •°⎯⎯⎯
 
-❯── lo que lo hace estar triste
+᭧⃟🏴⃕  Personalidad:
 
-❯── lo que lo enoja
+⤿
 
-❯── habitos
+᭧⃟🏴⃕  Lo que le hace feliz:
 
-❯── gente cercana
+⤿
 
-❯── estilo de vida
+᭧⃟🏴⃕  Lo que le enoja:
 
-❯── poseciones
+⤿
 
-❯── Miedos
+᭧⃟🏴⃕  Lo que le entristeze:
 
-❯── Sus recuerdos
+⤿
 
-  más profundos
+᭧⃟🏴⃕  Habitos:
 
-❯── Come
+⤿
 
-❯── Vestimenta(s
+᭧⃟🏴⃕  Comida favorita:
 
-❯── gustos
+⤿
 
-❯── disgustos
+᭧⃟🏴⃕  Miedos:
 
-❯── habilidades
+⤿
 
-❯── debilidades
+᭧⃟🏴⃕  Gustos:
 
-❯──apodo
+⤿
 
-❯── enamoramiento
+᭧⃟🏴⃕  Disgustos:
 
-❯── significado de su nombre
+⤿
 
-❯── accesorios
+᭧⃟🏴⃕  Habilidades:
 
-❯── Voz
+⤿
 
-❯── enemigos
+᭧⃟🏴⃕  Metas:
 
-❯── Mascotas
+⤿
 
-❯── clase social
+⎯⎯⎯۞ 𝑯𝒊𝒔𝒕𝒐𝒓𝒊𝒂 •°⎯⎯⎯
 
-❯── recuerdo más temprano
+⤿
 
-❯── cosas que hace sin darse cuenta
+⎯⎯⎯۞ 𝑯𝒊𝒔𝒕𝒐𝒓𝒊𝒂 •°⎯⎯⎯
 
-❯── metas
+ᵈᵉˢⁱⁿᵍ ᵇʸ ⁿᵉᵖᵗʰᵘⁿᵉ, ⁱᶠ ʸᵒᵘ ʷⁱˡˡ ᵘˢᵉ ᵗʰⁱˢ, ˡᵉᵃᵛᵉ ᵗʰᵉ ᶜʳᵉᵈⁱᵗˢ ᵒʳ ᵉˡˢᵉ ᵈᵒⁿᵗ ˢᵗᵒˡᵉ ᵗʰⁱˢ
 
-━━━━━━✧♛✧━━━━━━
-
-ɦistѳʀiɑ
-
-━━━━━━✧♛✧━━━━━━
-
-Historia
-
-curiosidades
-
-Datos extra
-
-┏━━━━━━༻✧༺━━━━━━┓
-
-algo que quieras poner(opcional)
-
-┗━━━━━━༻✧༺━━━━━━┛`)
+𝑭𝒐𝒕𝒐: (𝑶𝒑𝒄𝒊𝒐𝒏𝒂𝒍)`)
 		
 break
 		
