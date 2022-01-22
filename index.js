@@ -2213,35 +2213,52 @@ Si pierdes, termina tu rol rindiendote o muriendo.
 break
 
 case 'reglas': m.reply(`
-꒥꒷꒦꒦꒷꒥꒥꒷꒦ 🍒 𝐑𝐄𝐆𝐋𝐀𝐒 🫐 ꒦꒷꒥꒥꒷꒦꒦꒷꒥
+꒥꒷꒦꒦꒷꒥꒥ 🍒 𝐑𝐄𝐆𝐋𝐀𝐒 🫐 ꒦꒷꒥꒥꒷꒦꒦
 
 
-〘🏴〙» ${pushname} Sigue atentamente estas reglas para no tener problemas con los Administradores.
+〘🏴〙» ${pushname} 
+Sigue atentamente estas reglas para no tener problemas con los Administradores.
 
 ──────〘🍒〙────── 
 
-꒥꒷꒦🏴 𝑅𝑒𝑠𝑝𝑒𝑡𝑜 ꒥꒷꒦
+・。。・゜゜・。。・・。。・゜゜・。。
+
+꒥꒷꒦|🏴| 𝑅𝑒𝑠𝑝𝑒𝑡𝑜 ꒥꒷꒦
 No toleramos cualquier falta de respeto a Usuarios o Administradores, justificamos solo si hay confianza entre estos. 
 
-꒥꒷꒦🍓 𝑃𝑟𝑖𝑣𝑎𝑐𝑖𝑑𝑎𝑑 ꒥꒷꒦
+・。。・゜゜・。。・・。。・゜゜・。。
+
+꒥꒷꒦|🍓| 𝑃𝑟𝑖𝑣𝑎𝑐𝑖𝑑𝑎𝑑 ꒥꒷꒦
 Por seguridad, no queremos que los hombres molesten a las mujeres por interno o por medio del grupo, si conoces a alguien que te acosa o molesta, acude a un administrador. 
 
-꒥꒷꒦🪐 𝐶𝑜𝑛𝑡𝑒𝑛𝑖𝑑𝑜 ꒥꒷꒦
+・。。・゜゜・。。・・。。・゜゜・。。
+
+꒥꒷꒦|🪐| 𝐶𝑜𝑛𝑡𝑒𝑛𝑖𝑑𝑜 ꒥꒷꒦
 +𝟷𝟾 Permitimos contenido +18, pero el Child Porn (CP) es inaceptable. Si envias cualquier tipo de este contenido, el BOT te denunciara y por asuntos legales, jamas tuvimos contacto contigo. 
 
-꒥꒷꒦🌹 𝐵𝑂𝑇 ꒥꒷꒦
+・。。・゜゜・。。・・。。・゜゜・。。
+
+꒥꒷꒦|🌹| 𝐵𝑂𝑇 ꒥꒷꒦
 No uses el BOT en tus grupos o por interno sin permiso del creador, este BOT esta diseñado solo para satisfacer las necesidades de Ussers y Admins solo en este grupo, aparte, tampoco lo sobreexplotes, si lo haces se te dara una advertencia. 
 
-꒥꒷꒦🍒 𝑆𝑃𝐴𝑀 ꒥꒷꒦
+・。。・゜゜・。。・・。。・゜゜・。。
+
+꒥꒷꒦|🍒| 𝑆𝑃𝐴𝑀 ꒥꒷꒦
 No spamees links de grupos de WhatsApp, Fotos, Stickers ni links raros. 
 
-꒥꒷꒦🫐 𝐴𝑐𝑡𝑖𝑣𝑖𝑑𝑎𝑑 ꒥꒷꒦
+・。。・゜゜・。。・・。。・゜゜・。。
+
+꒥꒷꒦|🫐| 𝐴𝑐𝑡𝑖𝑣𝑖𝑑𝑎𝑑 ꒥꒷꒦
 Hacemos limpieza cuando se nos de la gana, asi que mejor estate activo o espera a que te eliminemos. 
 
-꒥꒷꒦꒥꒷꒦ 〘⚠️〙 ꒥꒷꒦꒥꒷꒦
+・。。・゜゜・。。・・。。・゜゜・。。
+
+|꒥꒷꒦꒥꒷꒦ 〘⚠️〙 ꒥꒷꒦꒥꒷꒦|
 Las "WARNS" o advertencias se crearon para controlar el grupo, si tienes 3 warns, se te expulsara.
 
 Puedes ver cuantas advertencias tienes usando .warns o .perfil.
+
+・。。・゜゜・。。・・。。・゜゜・。。
 
 ──────〘🫐〙────── 
 
@@ -2249,7 +2266,7 @@ Puedes ver cuantas advertencias tienes usando .warns o .perfil.
 Queremos que tu estancia sea divertida pero por seguridad de los demas, somos estrictos ya que queremos que la estancia de todos sea sana. 
 
 
-❝〔🌹─ 𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+❝ 🌹  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🌿 ᩠𓏲ꪆ ❞ 
 
 ꒥꒷꒦꒦꒷ 🍒 ──────  🫐 ꒥꒷꒦꒦꒷`) 
 break
