@@ -2273,42 +2273,51 @@ break
 
 case 'reclutamiento': m.reply(`꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷
 
- ⃟🫐⃕ ${pushname} Bienvenido a reclutamiento.
+ ⃟🫐⃕  ${pushname} Bienvenido a reclutamiento.
 
 El grupo trata sobre rol, si estas interesado sigue leyendo, caso contrario salte de este grupo.
 
-──────── 🍒 ────────
+────── 🍒 ──────
 
  Sigue estos pasos para que seas admitido en el grupo: 
 
-🍒 Presentate con Nombre, Edad y Pais, el Nombre lo puedes remplazar por un apodo, no es necesario. 
+──────────────
 
-⚠️ La foto es opcional, respetamos tu derecho a la privacidad. 
+ˏ₊ ۪۪̥࣭࣮ࣴ🍒 . Presentate con Nombre, Edad y Pais, el Nombre lo puedes remplazar por un apodo, no es necesario. 
 
-🫐 Despues, escribe los personajes que quieras usar, puedes usar como maximo 2 cannon y un OC. 
+ˏ₊ ۪۪̥࣭࣮ࣴ⚠️ . La foto es opcional, respetamos tu derecho a la privacidad. 
 
-⚠️ Si quieres saber que animes estan permitidos y cuales no, usa .animes, si usas OC's, escribe .oc para que sepas que tienes que hacer. 
+ˏ₊ ۪۪̥࣭࣮ࣴ🫐 .🫐 Despues, escribe los personajes que quieras usar, puedes usar como maximo 2 cannon y un OC. 
+
+ˏ₊ ۪۪̥࣭࣮ࣴ⚠️ . Si quieres saber que animes estan permitidos y cuales no, usa .animes, si usas OC's, escribe .oc para que sepas que tienes que hacer. 
 
 
 Si te parece injusta alguna de estas reglas, comunicate con un administrador o mi creador. 
 
-`)
+      ❝ 🍒  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🫐 ᩠𓏲ꪆ ❞ 
+      
+      
+      
+꒥꒷꒦꒦꒷ 🍓 ──────  🫐 ꒥꒷꒦꒦꒷`)
 		
 	case 'ingreso':
-		m.reply(`🫐 Envia toda esta informacion y tagea a un Admin al final del mensaje. 
+		m.reply(`꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒦꒷꒥꒷꒥
+ˏ₊ ۪۪̥࣭࣮ࣴ🫐 . ${pushname} Envia toda esta informacion y tagea a un Admin al final del mensaje. 
 Puedes usar esta base como ayuda: 
 
 El nombre puede ser remplazado con un Apodo.
 
---🏴꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥
+╭───────────────🫐
+╰╼➤ Datos :
 Nombre: 
 Edad: 
 Pais: 
---🍒꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥
-Pesonajes:
+╭───────────────🍒
+╰╼➤  Pesonajes :
 ❱
 ❱
-꒥꒷꒥꒷꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥`)
+
+╰───────🪐───────╯`)
 		break
 		
 		//Con este case se envia la aplicacion Tutorial case 'tutorial': 
