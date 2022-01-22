@@ -2233,8 +2233,8 @@ Por seguridad, no queremos que los hombres molesten a las mujeres por interno o 
 
 ・。。・゜゜・。。・・。。・゜゜・
 
-꒥꒷꒦|🪐| 𝐶𝑜𝑛𝑡𝑒𝑛𝑖𝑑𝑜 +18 ꒥꒷꒦
-+𝟷𝟾 Permitimos contenido +18, pero el Child Porn (CP) es inaceptable. Si envias cualquier tipo de este contenido, el BOT te denunciara y por asuntos legales, jamas tuvimos contacto contigo. 
+꒥꒷꒦|🪐| 𝐶𝑜𝑛𝑡𝑒𝑛𝑖𝑑𝑜 +𝟷𝟾 ꒥꒷꒦
+Permitimos contenido +18, pero el Child Porn (CP) es inaceptable. Si envias cualquier tipo de este contenido, el BOT te denunciara y por asuntos legales, jamas tuvimos contacto contigo. 
 
 ・。。・゜゜・。。・・。。・゜゜・
 
@@ -2266,51 +2266,49 @@ Puedes ver cuantas advertencias tienes usando .warns o .perfil.
 Queremos que tu estancia sea divertida pero por seguridad de los demas, somos estrictos ya que queremos que la estancia de todos sea sana. 
 
 
-     ❝ 🌹  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🌿 ᩠𓏲ꪆ ❞ 
+      ❝ 🌹  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🫐 ᩠𓏲ꪆ ❞ 
 
 ꒥꒷꒦꒦꒷ 🍒 ──────  🫐 ꒥꒷꒦꒦꒷`) 
 break
 
-case 'reclutamiento': m.reply(`«───── « ⋅ʚ🌴ɞ⋅ » ─────» 
+case 'reclutamiento': m.reply(`꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷
 
-🌴 𝔅𝔦𝔢𝔫𝔳𝔢𝔫𝔦𝔡𝔬 𝔞 ℜ𝔢𝔠𝔩𝔲𝔱𝔞𝔪𝔦𝔢𝔫𝔱𝔬 
+ ⃟🫐⃕ ${pushname} Bienvenido a reclutamiento.
 
-*[*💢❱ Queremos recalcar que este es un grupo que trata sobre y para rol, si eres un comediante, no gastes tu tiempo siendo un payaso y salte. 
+El grupo trata sobre rol, si estas interesado sigue leyendo, caso contrario salte de este grupo.
 
-──────〘🌙〙──────
+──────── 🍒 ────────
 
-» Sigue estos pasos para que seas admitido en el grupo: 
+ Sigue estos pasos para que seas admitido en el grupo: 
 
-🏴❱ Presentate con Nombre; edad y Pais. 
+🍒 Presentate con Nombre, Edad y Pais, el Nombre lo puedes remplazar por un apodo, no es necesario. 
 
-⚠️❱ La foto es opcional, respe- tamos tu derecho a la privacidad. 
+⚠️ La foto es opcional, respetamos tu derecho a la privacidad. 
 
-🏴❱ Despues, escribe los perso- najes que quieras usar, puedes usar como maximo 3. 
+🫐 Despues, escribe los personajes que quieras usar, puedes usar como maximo 2 cannon y un OC. 
 
-⚠️❱ Si quieres saber que animes estan permitidos y cuales no, usa .animes, si usas OC's, escribe .oc para que sepas que tienes que hacer. 
+⚠️ Si quieres saber que animes estan permitidos y cuales no, usa .animes, si usas OC's, escribe .oc para que sepas que tienes que hacer. 
 
 
 Si te parece injusta alguna de estas reglas, comunicate con un administrador o mi creador. 
 
-
-❝〔🌹─ 𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
-
-«───── « ⋅ʚ🌴ɞ⋅ » ─────»`)
+`)
 		
-	case 'xdxd':
-		m.reply(`🎈❱ Envia toda esta informacion y tagea a un Admin al final del mensaje. 
+	case 'ingreso':
+		m.reply(`🫐 Envia toda esta informacion y tagea a un Admin al final del mensaje. 
 Puedes usar esta base como ayuda: 
 
-დ🏴─────────────── 
+El nombre puede ser remplazado con un Apodo.
+
+--🏴꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥
 Nombre: 
 Edad: 
 Pais: 
-დ🌴─────────────── 
+--🍒꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥
 Pesonajes:
 ❱
 ❱
-❱
-დ🌙───────────────`)
+꒥꒷꒥꒷꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥`)
 		break
 		
 		//Con este case se envia la aplicacion Tutorial case 'tutorial': 
