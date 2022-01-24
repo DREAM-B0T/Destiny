@@ -2065,6 +2065,10 @@ case 'listgroup':
   
 	case 'animes': m.reply(`──────〘🌴〙────── 
 	
+	@${sender.split("@")[0]}
+	
+	Los siguientes animes son los que estan permitidos para poder escoger un personaje y ser admitido en el grupo.
+	
 	〘✅〙𝑃𝐸𝑅𝑀𝐼𝑇𝐼𝐷𝑂𝑆: 
 	
 	❱ Kimetsu No Yaiba. 
@@ -2217,6 +2221,7 @@ case 'reglas': m.reply(`
 
 
 〘🏴〙» @${sender.split("@")[0]}
+
 Sigue atentamente estas reglas para no tener problemas con los Administradores.
 
 ──────〘🍒〙────── 
@@ -2266,14 +2271,14 @@ Puedes ver cuantas advertencias tienes usando .warns o .perfil.
 Queremos que tu estancia sea divertida pero por seguridad de los demas, somos estrictos ya que queremos que la estancia de todos sea sana. 
 
 
-      ❝ 🌹  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🫐 ᩠𓏲ꪆ ❞ 
+       ❝ 🍒  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🫐 ᩠𓏲ꪆ ❞ 
 
-꒥꒷꒦꒦꒷ 🍒 ──────  🫐 ꒥꒷꒦꒦꒷`) 
+꒥꒷꒦꒦꒷꒦꒷꒦꒷ ────── ꒦꒷꒥꒷꒦꒷꒦꒦꒷`) 
 break
 
 case 'reclutamiento': m.reply(`꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷
 
- ⃟🫐⃕  ${pushname} Bienvenid@ a reclutamiento.
+ ⃟🫐⃕ @${sender.split("@")[0]} Bienvenid@ a reclutamiento.
 
 El grupo trata sobre rol, si estas interesado sigue leyendo, caso contrario salte de este grupo.
 
@@ -2306,7 +2311,7 @@ Si te parece injusta alguna de estas reglas, comunicate con un administrador o m
 	case 'ingreso':
 		m.reply(`꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷
 		
-ˏ₊ ۪۪̥࣭࣮ࣴ🫐 . ${pushname} Envia toda esta informacion y tagea a un Admin al final del mensaje. 
+ˏ₊ ۪۪̥࣭࣮ࣴ🫐 . @${sender.split("@")[0]}} Envia toda esta informacion y tagea a un Admin al final del mensaje. 
 Puedes usar esta base como ayuda: 
 
 El nombre puede ser remplazado con un Apodo.
