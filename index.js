@@ -2216,7 +2216,7 @@ case 'reglas': m.reply(`
 ꒥꒷꒦꒦꒷꒥꒥ 🍒 𝐑𝐄𝐆𝐋𝐀𝐒 🫐 ꒦꒷꒥꒥꒷꒦꒦
 
 
-〘🏴〙» @${pushname} 
+〘🏴〙» @${sender.split("@")[0]}
 Sigue atentamente estas reglas para no tener problemas con los Administradores.
 
 ──────〘🍒〙────── 
