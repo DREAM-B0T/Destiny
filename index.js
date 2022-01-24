@@ -2063,7 +2063,7 @@ case 'listgroup':
   m.reply(`≡ *${msg.listgp}*\n\n${capt}`)
   break  
   
-	case 'animes': m.reply(`──────〘🌴〙────── 
+	case 'animes': m.reply(`꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷
 	
 	@${sender.split("@")[0]}
 	
@@ -2105,23 +2105,18 @@ case 'listgroup':
 	Si tienes alguna sugerencia de agregar otro cualquier anime a los permitidos, contacta con un Admin. Si tienes un OC usa .oc, sigue las instrucciones de reclutamiento. 
 	
 	
-	❝〔🌹─ 𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
-	
-	──────〘🌴〙──────
+        ❝ 🍒  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🫐 ᩠𓏲ꪆ ❞ 
+
+꒥꒷꒦꒦꒷꒦꒷꒦꒷ ────── ꒦꒷꒥꒷꒦꒷꒦꒦꒷
 	`)
 		break
 
-case 'reglasrol': m.reply(`╭══• ೋ•✧๑♡๑✧•ೋ •══╮ 
-┊┊┊┊⋆ ✧　 　 · 　 ✧　✵
-┊┊┊☆ *　　 * ⋆
-┊┊★ *  💢 𝑹𝑬𝑮𝑳𝑨𝑺 𝑬𝑵 𝑹𝑶𝑳𝑳 
-┊┊* . *　✦
-┊☆ ° ✧　 　 ·
-★*
+case 'reglasrol': m.reply(`
+꒥꒷꒦꒥ 🍒 𝐑𝐄𝐆𝐋𝐀𝐒 𝐄𝐍 𝐑𝐎𝐋𝐋 🫐 ꒦꒷꒦꒦
 
-〘🏴〙» Sigue atentamente estas reglas para no tener problemas con los Administradores o tu pareja. 
+〘🏴〙» @${sender.split("@")[0]} Sigue atentamente estas reglas para no tener problemas con los Administradores o tu pareja.
 
-──────〘🏴〙────── 
+─────── 🏴 ───────
 
 〘⚠️〙𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘: Sabemos que hay gente nueva, asi como expertos en el rol, asi que como Administradores, queremos que la interaccion sea entre todos por eso, este grupo es libre en algunos aspectos como en lineas de rol, obviamente si tu quieres hacer biblias eres libre de hacer eso. 
 
@@ -2131,10 +2126,10 @@ case 'reglasrol': m.reply(`╭══• ೋ•✧๑♡๑✧•ೋ •══╮
 ⛔️❱
 Tu rol no tiene que ser seco, no permitimos roles que sean tan basicos, queremos algo de interaccion. EJ: *Lo besa*; *Se baña*; *Come* 
 
-💢❱
+꒥꒷꒦|🏴| 𝐶𝑎𝑙𝑖𝑑𝑎𝑑 ꒥꒷꒦
 Ten una buena ortografia y gramatica, no te pedimos que sea perfecta pero si entendible. 
 
-💢❱
+꒥꒷꒦|🍓| 𝑂𝑛 𝑅𝑜𝑙𝑙 ꒥꒷꒦
 Usa los signos de rol: 
 
 **〕 Accion con tu personaje sea con un objeto o una persona.
@@ -2146,9 +2141,10 @@ Respeta a tu compañero de rol, sea On o Off Rol, cualquier falta de respeto ser
 
 💢❱
 Si quieres realizar un evento, como una boda, acude con los Admins para poder organizarte algo bonito.
-──────〘🏴〙────── 
+─────── 🫐 ───────
 
-⸺ 𝐺𝐸𝑁𝐸𝑅𝑂𝑆: 
+╭───────────────🍒
+╰╼➤ 𝐺𝐸𝑁𝐸𝑅𝑂𝑆: 
 🎲 Casual: ✅ 
 🎪 Eventos: ✅ 
 🍋 Lemon: ✅ 
@@ -2157,7 +2153,7 @@ Si quieres realizar un evento, como una boda, acude con los Admins para poder or
 🎀 Otro: ✅ 
 🎌Eventos de grupo: ✅ 
 
-──────〘🏴〙────── 
+─────── 🏴 ───────
 
 
 Comentarios de Admins: 
@@ -2165,20 +2161,14 @@ Comentarios de Admins:
 A:ptamadre que guapo es Jonathan kya- 
 
 
-❝〔🌹─ 𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+        ❝ 🍒  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🫐 ᩠𓏲ꪆ ❞ 
 
-╰══• ೋ•✧๑♡๑✧•ೋ •══╯`)
+꒥꒷꒦꒦꒷꒦꒷꒦꒷ ────── ꒦꒷꒥꒷꒦꒷꒦꒦꒷`)
 		break
 
-case 'reglasbt': m.reply(`╭══• ೋ•✧๑♡๑✧•ೋ •══╮ 
-┊┊┊┊⋆ ✧　 　 · 　 ✧　✵
-┊┊┊☆ *　　 * ⋆
-┊┊★ * 💢 𝑹𝑬𝑮𝑳𝑨𝑺 𝑬𝑵 𝑩𝑨𝑻𝑨𝑳𝑳𝑨
-┊┊* . *　✦
-┊☆ ° ✧　 　 ·
-★*
+case 'reglasbt': m.reply(`꒥꒷꒥꒥ 🍒 𝐑𝐄𝐆𝐋𝐀𝐒 𝐄𝐍 𝐁𝐓 🫐 ꒷꒥꒦꒦
 
-〘🏴〙» Sigue atentamente estas reglas para no tener problemas con los Administradores y tu oponente. 
+〘🏴〙» @${sender.split("@")[0]} Sigue atentamente estas reglas para no tener problemas con los Administradores o tu pareja.
 
 ──────〘🏴〙────── 
 
@@ -2210,9 +2200,9 @@ Si pierdes, termina tu rol rindiendote o muriendo.
 ──────〘🏴〙────── 
 
 
-❝〔🌹─ 𝔇𝔢𝔰𝔱𝔦𝔫𝔶 ﹝彼女﹞〕❞ 
+        ❝ 🍒  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🫐 ᩠𓏲ꪆ ❞ 
 
-╰══• ೋ•✧๑♡๑✧•ೋ •══╯
+꒥꒷꒦꒦꒷꒦꒷꒦꒷ ────── ꒦꒷꒥꒷꒦꒷꒦꒦꒷
 `)
 break
 
@@ -2238,7 +2228,7 @@ Por seguridad, no queremos que los hombres molesten a las mujeres por interno o 
 
 ・。。・゜゜・。。・・。。・゜゜・
 
-꒥꒷꒦|🪐| 𝐶𝑜𝑛𝑡𝑒𝑛𝑖𝑑𝑜 +𝟷𝟾 ꒥꒷꒦
+           
 Permitimos contenido +18, pero el Child Porn (CP) es inaceptable. Si envias cualquier tipo de este contenido, el BOT te denunciara y por asuntos legales, jamas tuvimos contacto contigo. 
 
 ・。。・゜゜・。。・・。。・゜゜・
@@ -2271,7 +2261,7 @@ Puedes ver cuantas advertencias tienes usando .warns o .perfil.
 Queremos que tu estancia sea divertida pero por seguridad de los demas, somos estrictos ya que queremos que la estancia de todos sea sana. 
 
 
-       ❝ 🍒  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🫐 ᩠𓏲ꪆ ❞ 
+        ❝ 🍒  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🫐 ᩠𓏲ꪆ ❞ 
 
 ꒥꒷꒦꒦꒷꒦꒷꒦꒷ ────── ꒦꒷꒥꒷꒦꒷꒦꒦꒷`) 
 break
@@ -2300,18 +2290,17 @@ El grupo trata sobre rol, si estas interesado sigue leyendo, caso contrario salt
 Si te parece injusta alguna de estas reglas, comunicate con un administrador o mi creador. 
 
 
-      ❝ 🍒  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🫐 ᩠𓏲ꪆ ❞ 
 
 
-      
-      
-      
-꒥꒷꒦꒦꒷ 🍓 ──────  🫐 ꒥꒷꒦꒦꒷`)
+        ❝ 🍒  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🫐 ᩠𓏲ꪆ ❞ 
+
+
+꒥꒷꒦꒦꒷꒦꒷꒦꒷ ────── ꒦꒷꒥꒷꒦꒷꒦꒦꒷`)
 		
 	case 'ingreso':
 		m.reply(`꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷
 		
-ˏ₊ ۪۪̥࣭࣮ࣴ🫐 . @${sender.split("@")[0]}} Envia toda esta informacion y tagea a un Admin al final del mensaje. 
+ˏ₊ ۪۪̥࣭࣮ࣴ🫐 . @${sender.split("@")[0]} Envia toda esta informacion y tagea a un Admin al final del mensaje. 
 Puedes usar esta base como ayuda: 
 
 El nombre puede ser remplazado con un Apodo.
@@ -2326,7 +2315,13 @@ Pais:
 ❱
 ❱
 
-╰───────🪐───────╯`)
+╰───────🪐───────╯
+
+
+        ❝ 🍒  ᩠̟˙ ‹ 𝑫𝒆𝒔𝒕𝒊𝒏𝒚 𖥔˙🫐 ᩠𓏲ꪆ ❞ 
+
+By Nepthune.
+꒥꒷꒦꒦꒷꒦꒷꒦꒷ ────── ꒦꒷꒥꒷꒦꒷꒦꒦꒷`)
 		break
 		
 		//Con este case se envia la aplicacion Tutorial case 'tutorial': 
