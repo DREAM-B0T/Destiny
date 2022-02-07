@@ -679,6 +679,10 @@ Caso contrario, llena esta y tagea a un Administrador.
 
 ⤿
 
+᭧⃟🫐⃕  Familia:
+
+⤿
+
 ᭧⃟🫐⃕  Nacio en:
 
 ⤿
@@ -2112,9 +2116,11 @@ case 'listgroup':
 		break
 
 case 'reglasrol': m.reply(`
-꒥꒷꒦꒥ 🍒 𝐑𝐄𝐆𝐋𝐀𝐒 𝐄𝐍 𝐑𝐎𝐋𝐋 🫐 ꒦꒷꒦꒦
+꒥꒷꒦ 🍒 𝐑𝐄𝐆𝐋𝐀𝐒 𝐄𝐍 𝐑𝐎𝐋𝐋 🫐 ꒦꒷꒦꒦
 
-〘🏴〙» @${sender.split("@")[0]} Sigue atentamente estas reglas para no tener problemas con los Administradores o tu pareja.
+〘🏴〙» @${sender.split("@")[0]} 
+
+Sigue atentamente estas reglas para no tener problemas con los Administradores o tu pareja.
 
 ─────── 🏴 ───────
 
@@ -2228,7 +2234,7 @@ Por seguridad, no queremos que los hombres molesten a las mujeres por interno o 
 
 ・。。・゜゜・。。・・。。・゜゜・
 
-           
+꒥꒷꒦|🌸| 𝐶𝑜𝑛𝑡𝑒𝑛𝑖𝑑𝑜 +18 ꒥꒷꒦
 Permitimos contenido +18, pero el Child Porn (CP) es inaceptable. Si envias cualquier tipo de este contenido, el BOT te denunciara y por asuntos legales, jamas tuvimos contacto contigo. 
 
 ・。。・゜゜・。。・・。。・゜゜・
@@ -2266,9 +2272,10 @@ Queremos que tu estancia sea divertida pero por seguridad de los demas, somos es
 ꒥꒷꒦꒦꒷꒦꒷꒦꒷ ────── ꒦꒷꒥꒷꒦꒷꒦꒦꒷`) 
 break
 
-case 'reclutamiento': m.reply(`꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷
+case 'reclutamiento': m.reply(`꒥꒷꒦꒷꒥ 🍒 𝐑𝐞𝐜𝐥𝐮𝐭𝐚𝐦𝐢𝐞𝐧𝐭𝐨 🫐 ꒦꒷꒥꒥꒷
 
- ⃟🫐⃕ @${sender.split("@")[0]} Bienvenid@ a reclutamiento.
+ ⃟🫐⃕  Bienvenido a reclutamiento.
+ @${sender.split("@")[0]}
 
 El grupo trata sobre rol, si estas interesado sigue leyendo, caso contrario salte de este grupo.
 
@@ -2314,6 +2321,18 @@ Pais:
 ╰╼➤  Pesonajes :
 ❱
 ❱
+╭───────────────🌸
+╰╼➤ Contenido +18
+
+El grupo admite contenido +18, no es baneable excepto a que sea CP o Gore, de todas formas, al entrar no nos haremos responsables de lo que puedan encontrar en tu celular.
+
+S =
+Estoy de acuerdo
+
+N =
+
+No estoy de acuerdo
+
 
 ╰───────🪐───────╯
 
