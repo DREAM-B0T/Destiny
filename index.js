@@ -2110,14 +2110,16 @@ case 'listgroup':
   m.reply(`≡ *${msg.listgp}*\n\n${capt}`)
   break  
   
-	case 'animes': m.reply(`꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷꒦꒦꒷꒥꒷꒥꒷
+	case 'animes': m.reply(`꒥꒷꒦꒦꒷꒦꒷꒦꒷ ────── ꒦꒷꒥꒷꒦꒷꒦꒦꒷
 	
 	@${sender.split("@")[0]}
 	
 	Los siguientes animes son los que estan permitidos para poder escoger un personaje y ser admitido en el grupo.
 	
-	〘✅〙𝑃𝐸𝑅𝑀𝐼𝑇𝐼𝐷𝑂𝑆: 
 	
+	╭───────────────✅
+╰╼➤ 𝑃𝐸𝑅𝑀𝐼𝑇𝐼𝐷𝑂𝑆:
+
 	❱ Kimetsu No Yaiba. 
 	❱ Shingeki No Kyojin. 
 	❱ Boku No hero. 
@@ -2135,12 +2137,14 @@ case 'listgroup':
 	❱ Record Of Ragnarok.
 	❱ Mushoku Tensei.
 	
-	〘💢〙𝑁𝑂 𝑃𝐸𝑅𝑀𝐼𝑇𝐼𝐷𝑂𝑆: 
+	╭───────────────💢
+╰╼➤ 𝑁𝑂 𝑃𝐸𝑅𝑀𝐼𝑇𝐼𝐷𝑂𝑆:
 	
 	❱ Dragon Ball. 
 	❱ Naruto. 
 	
-	〘🍁〙𝑂𝑇𝑅𝑂𝑆: 
+	╭───────────────🍁
+╰╼➤ 𝑂𝑇𝑅𝑂𝑆: 
 	
 	❱ DC. 
 	❱ MARVEL. 
@@ -2167,13 +2171,14 @@ Sigue atentamente estas reglas para no tener problemas con los Administradores o
 
 ─────── 🏴 ───────
 
-〘⚠️〙𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘: Sabemos que hay gente nueva, asi como expertos en el rol, asi que como Administradores, queremos que la interaccion sea entre todos por eso, este grupo es libre en algunos aspectos como en lineas de rol, obviamente si tu quieres hacer biblias eres libre de hacer eso. 
+Sabemos que hay gente nueva, asi como expertos en el rol, asi que como Administradores, queremos que la interaccion sea entre todos por eso, este grupo es libre en algunos aspectos como en lineas de rol, obviamente si tu quieres hacer biblias eres libre de hacer eso. 
 
-⚠️› MINIMO: 8 LINEAS ENTRE DESCRIPCION Y DIALOGO 
-⚠️› MAXIMO: A TU GUSTO 
+MINIMO: 8 LINEAS ENTRE DESCRIPCION Y DIALOGO 
+MAXIMO: A TU GUSTO 
 
-⛔️❱
 Tu rol no tiene que ser seco, no permitimos roles que sean tan basicos, queremos algo de interaccion. EJ: *Lo besa*; *Se baña*; *Come* 
+
+─────── 🏴 ───────
 
 ꒥꒷꒦|🏴| 𝐶𝑎𝑙𝑖𝑑𝑎𝑑 ꒥꒷꒦
 Ten una buena ortografia y gramatica, no te pedimos que sea perfecta pero si entendible. 
@@ -2183,12 +2188,12 @@ Usa los signos de rol:
 
 **〕 Accion con tu personaje sea con un objeto o una persona.
 ~~〕 Pensamiento de tu personaje El texto deberia quedar asi: Q̵u̵e̵ ̵g̵u̵a̵p̵o̵ ̵e̵s̵ ̵J̵o̵n̵a̵t̵h̵a̵n̵
-//〕 Fuera de rol. EJ: Oye, ya comiste?//, Usalo cuando sea
+//〕 Fuera de rol. EJ: Oye, ya comiste?//, Usalo cuando sea necesario.
 
-💢❱
+꒥꒷꒦|💢| 𝑅𝑒𝑠𝑝𝑒𝑡𝑜 ꒥꒷꒦
 Respeta a tu compañero de rol, sea On o Off Rol, cualquier falta de respeto sera castigada con BAN. 
 
-💢❱
+꒥꒷꒦|🌸| 𝐸𝑣𝑒𝑛𝑡𝑜𝑠 ꒥꒷꒦
 Si quieres realizar un evento, como una boda, acude con los Admins para poder organizarte algo bonito.
 ─────── 🫐 ───────
 
@@ -2214,33 +2219,35 @@ Si quieres realizar un evento, como una boda, acude con los Admins para poder or
 
 case 'reglasbt': m.reply(`꒥꒷꒥꒥ 🍒 𝐑𝐄𝐆𝐋𝐀𝐒 𝐄𝐍 𝐁𝐓 🫐 ꒷꒥꒦꒦
 
-〘🏴〙» @${sender.split("@")[0]} Sigue atentamente estas reglas para no tener problemas con los Administradores o tu pareja.
+〘🏴〙» @${sender.split("@")[0]} 
+
+Sigue atentamente estas reglas para no tener problemas con los Administradores o tu pareja.
 
 ──────〘🏴〙────── 
 
-💢❱
+꒥꒷꒦ |💢| ꒥꒷꒦
 Los Administradores estaran monitoreando tu batalla. 
 
-💢❱
+꒥꒷꒦ |🍒| ꒥꒷꒦
 Cada que pongas un ataque, deberas de poner una descripcion de este. 
 
 EJ: Aliento de Agua: 
 « Rueda de Agua Segunda Postura »
 El usuario de esta postura da un salto y gira en aire mientras lo combina con un ataque fluido giratorio. 
 
-💢❱
+꒥꒷꒦ |🫐| ꒥꒷꒦
 Deberas ser claro en tus movimientos asi como describirlos bien y tener buena gramatica y ortografia. 
 
-💢❱
+꒥꒷꒦ |🍒| ꒥꒷꒦
 Si es un evento, tendran un contador que cuando se acabe y nadie de los oponentes haya perdido, entre los administradores se tomara un ganador, se lo elijira mediante a su desempeño en batalla. 
 
-💢❱
+꒥꒷꒦ |🏴| ꒥꒷꒦
 Si es un evento o pelea en equipos, se lo elijira aleatoriamente a menos que los Administradores den una excepcion. 
 
-💢❱ 
+꒥꒷꒦ |🫐| ꒥꒷꒦
 Los ataques mortales que des seran verificados por un administrador, si el golpe es valido, la batalla sera dada de alta y el ganador sera el que menos golpes sufrio o el que haya quedo en pie. 
 
-💢❱
+꒥꒷꒦ |🍒| ꒥꒷꒦
 Si pierdes, termina tu rol rindiendote o muriendo. 
 
 ──────〘🏴〙────── 
@@ -2275,7 +2282,7 @@ Por seguridad, no queremos que los hombres molesten a las mujeres por interno o 
 
 ・。。・゜゜・。。・・。。・゜゜・
 
-꒥꒷꒦|🌸| 𝐶𝑜𝑛𝑡𝑒𝑛𝑖𝑑𝑜 +18 ꒥꒷꒦
+꒥꒷꒦|🫐| 𝐶𝑜𝑛𝑡𝑒𝑛𝑖𝑑𝑜 +18 ꒥꒷꒦
 Permitimos contenido +18, pero el Child Porn (CP) es inaceptable. Si envias cualquier tipo de este contenido, el BOT te denunciara y por asuntos legales, jamas tuvimos contacto contigo. 
 
 ・。。・゜゜・。。・・。。・゜゜・
@@ -2287,6 +2294,9 @@ No uses el BOT en tus grupos o por interno sin permiso del creador, este BOT est
 
 ꒥꒷꒦|🍒| 𝑆𝑃𝐴𝑀 ꒥꒷꒦
 No spamees links de grupos de WhatsApp, Fotos, Stickers ni links raros. 
+
+꒥꒷꒦|🏴| 𝑅𝑂𝐿 ꒥꒷꒦
+Si tienes problemas para rolear en un mismo grupo, puedes usar un emoji o escribir marcarlo.
 
 ・。。・゜゜・。。・・。。・゜゜・
 
