@@ -631,7 +631,8 @@ _Podras usar distintos comandos que solo estan disponibles para administradores.
 	case 'oc':
 		m.reply(`꒥꒷꒦𓂃꒥꒷꒦𓂃꒦꒷ 𝑶𝑪ׅׄ𝒔˙ ꒷꒦𓂃꒥꒷꒦𓂃꒥꒷꒦
 
-${pushname}, Estas en la sección de OCs, la siguiente ficha que se te pasará, la deberás usar para describir a tu OC, si ya tienes una, reenviala al grupo y tarea a un Administrador.
+@${sender.split("@")[0]} 
+La siguiente ficha que se te pasará, la deberás usar para describir a tu OC, si ya tienes una, reenviala al grupo y tagea a un Administrador.
 
 Caso contrario, llena esta y tagea a un Administrador.
 
@@ -828,6 +829,8 @@ Caso contrario, llena esta y tagea a un Administrador.
 ⤿
 
 ⎯⎯⎯۞ 𝑯𝒊𝒔𝒕𝒐𝒓𝒊𝒂 •°⎯⎯⎯
+
+Tag: @
 
 ᵈᵉˢⁱⁿᵍ ᵇʸ ⁿᵉᵖᵗʰᵘⁿᵉ, ⁱᶠ ʸᵒᵘ ʷⁱˡˡ ᵘˢᵉ ᵗʰⁱˢ, ˡᵉᵃᵛᵉ ᵗʰᵉ ᶜʳᵉᵈⁱᵗˢ ᵒʳ ᵉˡˢᵉ ᵈᵒⁿᵗ ˢᵗᵒˡᵉ ᵗʰⁱˢ
 
