@@ -1032,7 +1032,7 @@ case "s":
               spawn("webpmux", [
                 "-set",
                 "exif",
-                "./temp/dataexif",
+                "./temp/data.exif",
                 out,
                 "-o",
                 _out,
