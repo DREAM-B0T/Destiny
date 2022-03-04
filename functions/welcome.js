@@ -1,39 +1,39 @@
 const fs = require("fs");
 const Wel = JSON.parse(fs.readFileSync('./database/welcome.json'));
 
-const welAwal = `‿︵‿︵ʚ˚̣̣̣͙ɞ・💢・ ʚ˚̣̣̣͙ɞ‿︵‿︵ 
+const welAwal = `━━━━━━━━━━━━━━━━━	
+឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵ ឵឵឵ ឵឵ ឵឵ ឵឵ ឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵  ឵‿︵ ◌ ୨ -🍒- ୧ ◌ ︵‿
+𓄴˖࣪   𝐁 𝐈 𝐄 𝐍 𝐕 𝐄 𝐍 𝐈 𝐃 𝐎  𓏲࣪ ┈ ✦️️ʾ ִֶָ𓍢ִ໋˖ . ‶
 
-Bienvenido @user . . .
+@user
 
-No olvides leer las reglas para no tener problemas:
+Bienvenido a @group, esperamos y tu estadia sea convenientemente divertida y saludable, si tienes problemas, no olvides en avisarnos, el equipo de administracion resolvera tus dudas!.
 
-.reglas
-.reglasbt
-.reglasrol
+╭───────────────🏴
+╰╼➤ 𝐑𝐄𝐆𝐋𝐀𝐒:
 
-Usa mis distintas funciones:
+❪✎ ".reglas"❫ 
+Reglas Generales
+❪✎ ".reglasrol"❫
+Reglas On Rol
+❪✎ ".reglasbt"❫
+Reglas On Battle
 
-.menu
-.help
+𝘛𝘐𝘗 ───────────────
 
-Descubre como ser Premium:
+Usa ".menu"
 
-.serpremium
+Soy 𝐷𝑒𝑠𝑡𝑖𝑛𝑦🍒 y estare a tu disposicion, sin nada mas que decir, disfruta.
 
+━━━━━━━━━━━━━━━━━`;
 
-Esperamos que tu estancia en este grupo sea sana y divertida, este es el grupo donde podras rolear y hacer SPAM.
+const byeAwal = `━━━━━━━━━━━━━━━━━	
 
-ATT: 𝐿𝑎 𝐴𝑑𝑚𝑖𝑛𝑖𝑠𝑡𝑟𝑎𝑐𝑖𝑜𝑛.
+឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵‿︵ ◌ ୨ -@user- ୧ ◌ ︵‿
 
-‿︵‿︵ʚ˚̣̣̣͙ɞ・🌴・ ʚ˚̣̣̣͙ɞ‿︵‿︵`;
+🍒-. Ha abandonado el grupo.
 
-const byeAwal = `‿︵‿︵ʚ˚̣̣̣͙ɞ・💢・ ʚ˚̣̣̣͙ɞ‿︵‿︵
-
-@user ha salido de @group, esperemos le vaya bien, de todas formas nos olvidaremos de que existe en 3 horas o 1 dia.
-
-Como sea, en que andabamos?.
-
-‿︵‿︵ʚ˚̣̣̣͙ɞ・🌴・ ʚ˚̣̣̣͙ɞ‿︵‿︵`;
+━━━━━━━━━━━━━━━━━`;
 /**
  * Add welcome text to db
  * @param {string} chatId
