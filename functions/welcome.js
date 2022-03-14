@@ -22,9 +22,7 @@ _Esperamos y tu estadia sea divertida y saludable, si tienes problemas, no olvid
 
 ───────────────
 
-Usa ".menu"
-
-Soy 𝐷𝑒𝑠𝑡𝑖𝑛𝑦🍒 y estare a tu disposicion, sin nada mas que decir disfruta.
+_Soy 𝐷𝑒𝑠𝑡𝑖𝑛𝑦🍒 y estare a tu disposicion, sin nada mas que decir disfruta._
 
 ━━━━━━━━━━━━━━━━`;
 
@@ -32,7 +30,7 @@ const byeAwal = `━━━━━━━━━━━━━━━━
 
 ឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵@user
 
-🍒-. Ha abandonado el grupo.
+_🍒-. Ha abandonado el grupo._
 
 ━━━━━━━━━━━━━━━━`;
 /**
