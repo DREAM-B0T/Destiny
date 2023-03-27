@@ -25,7 +25,7 @@ Multi-idioma para cada usuario, lo que significa que el usuario puede elegir el 
 • pkg install git
 • pkg install ffmpeg
 • pkg install nodejs
-• git clone https://github.com/FG98F/dylux-bot
+• git clone https://github.com/DREAM-B0T/Destiny.git
 • cd dylux-bot
 • npm i
 • npm start
